@@ -1,1 +1,1083 @@
-{"ruleName":"UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-1 Purpose and Authority","state":"Utah","years":["\n                                          2025","                               2024","                               2023                                       "],"tags":["\n                              \n                  Kinship\n                \n                ","                               \n                  Placement\n                \n                                                    "]}
+[
+  {
+    "ruleName": "TX :: Statewide Intake Policy & Procedures :: 9600 Processing RCCI Intakes :: 9614 Resource Is Unknown or Not Found",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20241010053837/https://www.dfps.texas.gov/handbooks/SWI_Procedures/Files/SWP_pg_9000.asp#SWP_9614",
+    "stateNumber": 1,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Entry to care",
+      "Placement",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>If the name of the foster parent or the facility is not known, a search of the child’s placement events may provide this information.</p><p>The intake specialist performs a person search using the victim’s name and takes the following steps after locating the correct name:</p><ul><li>Select the name.</li><li>On the <em>Person Detail</em> screen, select <em>View Placements Events</em> from the <em>View Options</em> drop-down list.</li><li>Select the <em>Search</em> button. A list of the child’s placements pulls up.</li><li>Select the <em>Placement</em> link.</li></ul><p>After taking the steps above, use the following table to determine the name of the foster parent or facility.</p><p>&nbsp;</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\"><thead><tr><th><strong>If:</strong></th><th><strong>Then:</strong></th></tr></thead><tbody><tr><td data-th=\" If:\"><p>the child is placed in a foster home verified by a CPA …</p><p>&nbsp;</p></td><td data-th=\" Then:\"><ul><li>The <em>Placement Type</em> (under the <em>Placement Detail</em> section on the <em>Placement Info</em> tab) is <em>FPS Contracted Foster Placement</em>.</li><li>The <em>Agency</em> field (under the <em>Placement Name</em> section) displays the name of the CPA (such as The Bair Foundation, Upbring, and others) that licenses the foster home.</li><li>The <em>Facility</em> field (under <em>Placement Name</em> section) lists the name of the foster parents.</li></ul></td></tr><tr><td data-th=\" If:\"><p>the child is placed in a foster home verified by CPS …</p><p>&nbsp;</p></td><td data-th=\" Then:\"><ul><li>The <em>Placement Type</em> (under the <em>Placement Detail</em> section on the <em>Placement Info</em> tab) is <em>FPS Fost/Adopt Home</em>.</li><li>The <em>Agency</em> field (under the <em>Placement Name</em> section) is blank.</li><li>The <em>Facility</em> field (under the <em>Placement Name</em> section) lists the name of the foster parents.</li></ul></td></tr></tbody></table><p>If there is no resource found in IMPACT, the intake specialist manually enters any known information into the <em>Resource</em> section of the intake. If no information is known about the resource, the intake specialist enters <em>Unknown</em> as the resource name, chooses <em>Other</em> as the facility type, and documents a city and county for the address.</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Extended Foster Care Resource Guide :: Reapplication After SIL Application Is Denied",
+    "state": "Texas",
+    "source": "https://wustl.box.com/s/4g0gpw9nt3j74ld96jdbrlxthwpjvr8s",
+    "stateNumber": 2,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>If the young adult requires additional readiness activities for the supervised independent living (SIL) placement, the young adult and caseworker, with supporting documentation, may reapply every 60 days with an updated SIL application. The application must address the issues identified, and the steps or actions needed to obtain an SIL placement.</p><p>Page 22</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Appendices :: Appendix 1530-F: Categorical Requirements for AFDC :: Requirements for AFDC Eligibility :: G. Stepparent Budgeting Procedures",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20240722111509/https://www.dfps.texas.gov/handbooks/cps/files/CPS_px_1530f.asp#x1530f_G",
+    "stateNumber": 3,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "tags": [
+      "Administrative process",
+      "Eligibility",
+      "Resources and Info",
+      "Use of federal money (including Title IV-E)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p dir=\"ltr\">When a stepparent or a parent is disqualified because of his or her lack of U.S. Citizenship or valid immigration status but lives in the home of removal, this person is not considered a member of the AFDC certified group. A portion of the stepparent or a disqualified parent’s income, as described below, and all of his or her countable resources are considered when determining whether the child would have qualified for AFDC during the month in which court proceedings were initiated.</p><p dir=\"ltr\">The following budgeting process is used to determine the amount of the disqualified parent’s income that is considered countable to the AFDC certified group. The budgeting process is used when completing both the 185% and 100% AFDC Needs Standards income tests.</p><p dir=\"ltr\">1. &nbsp; Determine the disqualified parent’s countable monthly gross earned income.</p><p dir=\"ltr\">2. &nbsp; Subtract up to the standard $90 work-related expense deduction from the earned income.</p><p dir=\"ltr\">3. &nbsp; Add the disqualified parent’s unearned income to the net earned income.</p><p dir=\"ltr\">4. &nbsp; Subtract the following:</p><ul><li><p dir=\"ltr\">The actual amounts paid by the disqualified parent to individuals outside the home who could be claimed as dependents for personal Federal income tax purposes</p></li><li><p dir=\"ltr\">&nbsp;Payments by the disqualified parent of alimony or child support to individuals not living in the home</p></li><li><p dir=\"ltr\">The allowance amount, as found in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-b-stepparent-or-disqualified\">Appendix 1530-B</a>: Stepparent or Disqualified Parent Budgetary Needs Allowance Deduction, for the support of the disqualified parent and any Federal tax dependents of the disqualified parent who are living in the home but not included in the AFDC certified group</p></li></ul><p dir=\"ltr\">5. &nbsp; Add the net amount as income of the AFDC Certified group</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Appendices :: Appendix 1530-F: Categorical Requirements for AFDC :: Requirements for AFDC Eligibility :: F. Income",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20240722111509/https://www.dfps.texas.gov/handbooks/cps/files/CPS_px_1530f.asp#x1530f_F",
+    "stateNumber": 4,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "tags": [
+      "Administrative process",
+      "Definitions",
+      "Eligibility",
+      "Resources and Info",
+      "Use of federal money (including Title IV-E)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p dir=\"ltr\"><strong>What is the income monetary limit?</strong></p><p dir=\"ltr\">For a child to meet the AFDC income requirement and be determined eligible for Title IV-E, the countable income available to the certified group must not exceed the allowable limits for the 185% and 100% AFDC Needs Standards found in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-c-afdc-needs-standard-income\">Appendix 1530-C</a>: AFDC Needs Standard Income Limits. If the countable income of the certified group exceeds the applicable limits, the child is not considered to be eligible for AFDC and cannot be eligible for Title IV-E for the duration of his or her foster care episode.</p><p dir=\"ltr\">Under the 100% AFDC Needs Standard test, two Earned Income Deductions are allowed.</p><ol><li><p dir=\"ltr\">A maximum of $90 Earned Income deduction for each person in the certified group with countable earned income. The deduction amount cannot exceed the person’s monthly earned income amount. For example, if a person only had $45 of earned income, then the deduction would only be $45.</p></li><li><p dir=\"ltr\">A Dependent Care Cost Deduction is allowed for the actual cost of day care a parent or managing conservator with earned income who is included the certified group pays on behalf of a dependent child or incapacitated adult who is also included in the certified group.</p></li></ol><ul><li><p dir=\"ltr\">The maximum allowed deduction is $200.00 for each child under age 2 and $175.00 for each dependent child age 2 and older and each incapacitated adult.</p></li><li><p dir=\"ltr\">Actual day care costs are the unreimbursed payments made for a child or incapacitated adult that are necessary to allow for the parent or managing conservator to work.</p></li></ul><p dir=\"ltr\"><a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-afdc-income-determination\">Appendix 1530-A</a>: AFDC Income Determination Worksheet provides detailed instructions for determining whether the AFDC certified group’s allowable income meets both the 185% and 100% AFDC Needs Standards tests.</p><p dir=\"ltr\"><strong>Whose income is counted?</strong></p><p dir=\"ltr\">The income of the following are included in determining the total income of the certified group:</p><ul><li><p dir=\"ltr\">The earned and unearned income of each member of the certified group, subject to the exemptions and limitations identified below</p></li><li><p dir=\"ltr\">The income of a stepparent (a person married to the child’s legal parent) or a legal parent disqualified from AFDC because of his or her lack of U.S. Citizenship or valid immigration status who lives in the home, subject to the stepparent budgeting procedures below</p></li><li><p dir=\"ltr\">The income of a minor living with her parents when the minor is also a parent, subject to the stepparent budgeting procedures in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-g-underemployed-parent\">section G</a>, below.</p></li></ul><p dir=\"ltr\"><strong>What types of income are exempt?</strong></p><p dir=\"ltr\">The following are not included in determining the total income of the certified group:</p><ul><li><p dir=\"ltr\">Adoption assistance payments</p></li><li><p dir=\"ltr\">Foster care payments</p></li><li><p dir=\"ltr\">Earned income tax credits</p></li><li><p dir=\"ltr\">Educational assistance (grants, scholarships)</p></li><li><p dir=\"ltr\">Energy assistance payments</p></li><li><p dir=\"ltr\">Government disaster payments or housing assistance</p></li><li><p dir=\"ltr\">Government welfare payments (TANF)</p></li><li><p dir=\"ltr\">SSI benefits</p></li><li><p dir=\"ltr\">All other income of SSI recipients</p></li><li><p dir=\"ltr\">Monetary allowances to children of women Vietnam veterans born with certain birth defects (38 U.S.C. §1823)</p></li></ul><p dir=\"ltr\"><strong>What types of income are countable?</strong></p><p dir=\"ltr\">The following income is counted for each member of the certified group, with the exceptions and qualifications noted:</p><ul><li><p dir=\"ltr\">Gross earned income</p></li><li><p dir=\"ltr\">All wages, salaries, and commissions from employment (including self-employment), before taxes or other paycheck deductions</p></li></ul><p dir=\"ltr\">Exception: Do not count any earned income of a child under age 18 if the child is:</p><ul><li><p dir=\"ltr\">a full-time student; or</p></li><li><p dir=\"ltr\">a part-time student working less than 30 hours per week.</p></li><li><p dir=\"ltr\">Unearned Income</p></li><li><p dir=\"ltr\">Cash gifts and contributions (unless they are received irregularly and do not exceed $30 per person in a three-month period)</p></li><li><p dir=\"ltr\">Child support (up to $50 can be disregarded, not to exceed the actual amount received). If a single payment covers two or more children (including at least one who is not an applicant or client) and the support order does not specify a portion for each child, prorate the payment among all the children</p></li><li><p dir=\"ltr\">Disability insurance benefits</p></li><li><p dir=\"ltr\">Dividends and royalties</p></li><li><p dir=\"ltr\">Military pay and allowances</p></li><li><p dir=\"ltr\">Interest on savings and investments</p></li><li><p dir=\"ltr\">Income from property</p></li><li><p dir=\"ltr\">Pension (including railroad retirement and RSDI)</p></li><li><p dir=\"ltr\">Trust funds (count only withdrawals and dividends received)</p></li><li><p dir=\"ltr\">Unemployment compensation (not counted for principal wage earner)</p></li><li><p dir=\"ltr\">Veteran’s Administration benefits (except allowances to children of women Vietnam veterans born with certain defects)</p></li><li><p dir=\"ltr\">Workers’ Compensation (except any amount that is reimbursement for medical expense)</p></li></ul>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Appendices :: Appendix 1530-F: Categorical Requirements for AFDC :: Requirements for AFDC Eligibility :: E. Resources",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20240722111509/https://www.dfps.texas.gov/handbooks/cps/files/CPS_px_1530f.asp#x1530f_E",
+    "stateNumber": 5,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "tags": [
+      "Administrative process",
+      "Definitions",
+      "Eligibility",
+      "Resources and Info",
+      "Use of federal money (including Title IV-E)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p dir=\"ltr\"><strong>What is the resource monetary limit?</strong></p><p dir=\"ltr\">For a child to meet the AFDC resources requirement and be determined eligible for Title IV-E, the total countable resources of the persons included in the certified group, regardless of the number of persons in the group, must not exceed $10,000. If the countable resources of the certified group exceeds $10,000, the child cannot be determined eligible for AFDC nor can the child be determined eligible for Title IV-E foster care.</p><p class=\"text-align-right\" dir=\"ltr\">42 USC §672(a)(3)(B)</p><p dir=\"ltr\"><strong>What resources are exempt?</strong></p><p dir=\"ltr\">The following resources are exempt, and should not be included when totaling the resources of the certified group:</p><p dir=\"ltr\">&nbsp;• &nbsp; Burial plots</p><p dir=\"ltr\">&nbsp;• &nbsp; Earned income tax credits</p><p dir=\"ltr\">&nbsp;• &nbsp; Energy assistance payments</p><p dir=\"ltr\">&nbsp;• &nbsp; Homestead (residence and surrounding property)</p><p dir=\"ltr\">&nbsp;• &nbsp; Inaccessible resources (for example, irrevocable trust funds, security deposits)</p><p dir=\"ltr\">&nbsp;• &nbsp; Income-producing property essential to the person’s employment (such as inventory, tools)</p><p dir=\"ltr\">&nbsp;• &nbsp; Loans (if intending to repay)</p><p dir=\"ltr\">&nbsp;• &nbsp; Personal possessions (if used to meet needs essential to daily living)</p><p dir=\"ltr\">&nbsp;• &nbsp; Reimbursements for replacing or repairing an exempt resource</p><p dir=\"ltr\"><strong>What resources are countable?</strong></p><p dir=\"ltr\">Examples of resources that are counted in their entirety include cash, bank accounts, stocks, bonds, certificates of deposit, 401(k) accounts, retirement accounts, boats, campers, buildings, and land and mineral rights.</p><p dir=\"ltr\">The following resources are counted to the extent indicated:</p><p dir=\"ltr\">&nbsp;• &nbsp; Supplemental Security Income (SSI) benefits and all other resources of SSI recipients</p><p dir=\"ltr\">&nbsp;• &nbsp; Life insurance (cash value of the policy)</p><p dir=\"ltr\">&nbsp;• &nbsp; Real property (amount available after sale)</p><p dir=\"ltr\">&nbsp;• &nbsp; Prepaid burial insurance or funeral plan (cash value over $1500)</p><p dir=\"ltr\">&nbsp;• &nbsp; Vehicle (average trade-in value over $1500, unless used at least 50 percent to produce income)</p><p dir=\"ltr\">&nbsp;• &nbsp; Other non-liquid resources (equity value equals fair market value minus money owed)</p><p dir=\"ltr\">&nbsp;• &nbsp; Income tax refunds (all)</p><p dir=\"ltr\">&nbsp;• &nbsp; 401(k) and other retirement accounts (all)</p><p dir=\"ltr\">&nbsp;• &nbsp; IRAs and Keough plans (value minus early withdrawal penalty)</p><p dir=\"ltr\">Exception: When a child’s legal parent and stepparent jointly own a non-exempt resource, only one-half the value of the resource is counted.</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Appendices :: Appendix 1530-F: Categorical Requirements for AFDC :: Requirements for AFDC Eligibility :: D. Certified Group Determination",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20240722111509/https://www.dfps.texas.gov/handbooks/cps/files/CPS_px_1530f.asp#x1530f_B",
+    "stateNumber": 6,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019"
+    ],
+    "tags": [
+      "Administrative process",
+      "Adoption",
+      "Birth parents",
+      "Court system",
+      "Definitions",
+      "Eligibility",
+      "Kinship",
+      "Resources and Info",
+      "Subsidies - Other",
+      "Use of federal money (including Title IV-E)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p dir=\"ltr\">The AFDC certified group consists of the people whose income and resources count for the purpose of determining whether a child has AFDC eligibility.</p><p dir=\"ltr\">DFPS identifies the members of the certified group. DFPS considers all the people living in the AFDC home of removal during the AFDC eligibility month and determines whether each person is a member of the certified group.</p><p dir=\"ltr\">The number of people in the certified group, and who they are, allows DFPS to determine the total countable income and resources for the group. This information determines whether the child qualifies as needy for AFDC purposes.</p><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.20</p><p dir=\"ltr\"><strong>People Included in the Certified Group</strong></p><p dir=\"ltr\">The following people who live in the home of removal during all or part of the AFDC eligibility month are included in the certified group (except as specified in the&nbsp;People Not Included in the Certified Group subsection):</p><ul><li><p dir=\"ltr\">The child, even if DFPS did not physically remove him or her from the home (that is, if a constructive removal occurred).</p></li><li><p dir=\"ltr\">All siblings of the child (including biological siblings and legally adopted siblings) who also meet all AFDC requirements, including one of the following age requirements:</p><ul><li><p dir=\"ltr\">&nbsp;Under age 18.</p></li><li><p dir=\"ltr\">Age 18, attending high school, and expected to graduate before or during the month of the sibling’s 19th birthday.</p></li></ul></li><li><p dir=\"ltr\">The child’s legal parents, whether they are biological or adoptive parents.</p></li><li><p dir=\"ltr\">Any other specified relative who has managing conservatorship of the child.</p></li><li><p dir=\"ltr\">The spouse of the specified relative with managing conservatorship, if the spouse also has managing conservatorship of the child.</p></li></ul><p dir=\"ltr\"><strong>People Not Included in the Certified Group</strong></p><p dir=\"ltr\">The following people are not included in the certified group:</p><ul><li><p dir=\"ltr\">Any person (of any age) who is receiving supplemental security income (SSI), other than the child.</p></li><li><p dir=\"ltr\">Any person (of any age) who has neither US citizenship nor a valid immigration status, as described in the Code of Federal Regulations (45 CFR §233.50).</p></li><li><p dir=\"ltr\">The spouse of the specified relative with managing conservatorship, if the spouse does not have managing conservatorship of the child.</p></li><li><p dir=\"ltr\">Any other relative who does not have managing conservatorship of the child.</p></li><li><p dir=\"ltr\">Any stepparent of the child.</p></li><li><p dir=\"ltr\">Any child receiving adoption assistance benefits (see&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-1700-adoption-assistance-program-intro\">1700 Adoption Assistance Program</a>).</p></li></ul><p dir=\"ltr\"><strong>Details about Certain Situations</strong></p><p dir=\"ltr\"><strong>Parent Who Does Not Meet Requirements for Citizenship or Immigration Status</strong></p><p dir=\"ltr\">A child’s parent (whether biological or adoptive) is disqualified from the certified group if the parent has neither US citizenship nor a valid immigration status.</p><p dir=\"ltr\">DFPS counts a disqualified parent’s income and resources as specified in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-f-categorical-requirements-6\">G. Stepparent Budgeting Procedures</a>.</p><p dir=\"ltr\"><strong>Stepparent</strong></p><p dir=\"ltr\">DFPS counts a stepparent’s income and resources as specified in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-f-categorical-requirements-6\">G. Stepparent Budgeting Procedures</a>.</p><p dir=\"ltr\"><strong>Minor Parent</strong></p><p dir=\"ltr\">This subsection applies if the following people are all living in the same household:</p><ul><li><p dir=\"ltr\">Minor parent</p></li><li><p dir=\"ltr\">Minor parent’s child</p></li><li><p dir=\"ltr\">Minor parent’s parent</p></li></ul><p dir=\"ltr\">If the minor parent has AFDC eligibility as part of a certified group that contains his or her parent, the minor parent and his or her child are included in that same certified group.</p><p dir=\"ltr\">If the minor parent is part of a separate certified group, the following applies:</p><ul><li><p dir=\"ltr\">The minor parent’s child is included in the same certified group as the minor parent.</p></li><li><p dir=\"ltr\">DFPS considers the income of the minor parent’s parent to be available in the same way as the income of a stepparent, and section&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-f-categorical-requirements-6\">G. Stepparent Budgeting Procedures</a> applies.</p></li></ul><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.20(a)(3)(xviii)</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Appendices :: Appendix 1530-F: Categorical Requirements for AFDC :: Requirements for AFDC Eligibility :: C. Parental Deprivation",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20240722111509/https://www.dfps.texas.gov/handbooks/cps/files/CPS_px_1530f.asp#x1530f_B",
+    "stateNumber": 7,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "tags": [
+      "Administrative process",
+      "Birth parents",
+      "Child rights",
+      "Death",
+      "Definitions",
+      "Eligibility",
+      "Expectations for care",
+      "Kinship",
+      "Legal process",
+      "Resources and Info",
+      "Safety",
+      "Use of federal money (including Title IV-E)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p dir=\"ltr\">One element of the definition of “dependent child” under the AFDC program is parental deprivation, which means the child must be deprived of the support and care of at least one parent. The determination of whether a child has been deprived of parental support in the home of removal is made in relation to the child’s natural or adoptive parents.</p><p dir=\"ltr\">Parental deprivation exists when the home of removal is:</p><p dir=\"ltr\">1. &nbsp; a non-parent home, because the child is cared for by relatives;</p><p dir=\"ltr\">2. &nbsp; a one-parent home because of:</p><ul><li><p dir=\"ltr\">&nbsp;the death of a parent; or</p></li><li><p dir=\"ltr\">&nbsp;the absence of a parent from the home.</p></li></ul><p dir=\"ltr\">3. &nbsp; a two-parent home with:</p><ul><li><p dir=\"ltr\">physical or mental incapacity of at least one parent; or</p></li><li><p dir=\"ltr\">underemployment of the primary wage earner.</p></li></ul><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.90(a)(1)</p><p dir=\"ltr\"><strong>Who are the child’s parents?</strong></p><p dir=\"ltr\">The parent-child relationship is established between a child and:</p><ul><li><p dir=\"ltr\">the mother by proof of her having given birth to the child;</p></li><li><p dir=\"ltr\">an adoptive parent by proof of adoption;</p></li><li><p dir=\"ltr\">the father by legal presumption, proof of relationship, court adjudication, or acknowledgment of paternity.</p></li></ul><p dir=\"ltr\"><strong>When is a man legally presumed to be the child’s father?</strong></p><p dir=\"ltr\">By statute, a man is presumed to be the child’s natural father under any of the following circumstances:</p><p dir=\"ltr\">1. &nbsp; He and the child’s mother were married in apparent compliance with the law (even if the marriage is or could be voided), BEFORE the child’s birth and the child was born while they were married or before the 301st day after the marriage ended.</p><p dir=\"ltr\">2. &nbsp; He and the mother married in apparent compliance with the law (even if the marriage is or could be voided) AFTER the child’s birth, he voluntarily asserted paternity, and:</p><ul><li><p dir=\"ltr\">&nbsp;his assertion of paternity is in a record filed with the Bureau of Vital Statistics;</p></li><li><p dir=\"ltr\">he agreed to be named as the child’s father on the child’s birth certificate; or</p></li><li><p dir=\"ltr\">he promised in a record to support the child as his own.</p></li></ul><p dir=\"ltr\">3. &nbsp; He continuously resided in the same household where the child resided during the first two years of the child’s life, and he represented to others that the child was his own.</p><p dir=\"ltr\">4. &nbsp; He is adjudicated, or determined by a court order, to be the child’s father.</p><p dir=\"ltr\">5. &nbsp; He executes an acknowledgment of paternity, in accordance with Texas Family Code&nbsp;§160.302, which must be signed under penalty of perjury by both him and the child’s mother. An acknowledgment of paternity is void when another presumed father, who meets one of the presumed father criteria above, exists, unless the presumed father has signed a denial of his paternity.</p><p dir=\"ltr\"><strong>Common Law Marriage</strong></p><p dir=\"ltr\">The marriages referred to above include common law marriage. A common law marriage exists if a man and woman:</p><ul><li><p dir=\"ltr\">&nbsp;are both free to marry;</p></li><li><p dir=\"ltr\">live together; and</p></li><li><p dir=\"ltr\">hold out to the public that they are husband and wife.</p></li></ul><p dir=\"ltr\">If the common law couple separates and ceases living together, there must be a suit for proof of marriage filed within two years after the separation or the law presumes that the common law marriage never existed.</p><p dir=\"ltr\"><strong>Stepparents</strong></p><p dir=\"ltr\">Stepparents include men who marry the child’s mother but do not assert paternity or promise financial responsibility for the child. A stepparent is not a legal parent to the child without adoption.</p><h4 dir=\"ltr\">One-Parent Household</h4><p dir=\"ltr\"><strong>What is continued absence from the home?</strong></p><p dir=\"ltr\">A parent’s absence is considered to be&nbsp;continued absence from the home when:</p><ul><li><p dir=\"ltr\">the nature of the absence is such that there is an interruption or termination of the parent’s functioning as a provider of maintenance, physical care, or guidance for the child; and</p></li><li><p dir=\"ltr\">the known or indefinite duration of the absence precludes counting on a parent’s performance of the function of planning for the present support or care of the child.</p></li></ul><p dir=\"ltr\">As long as these two conditions are met, the parent may be absent for any reason and may have only left recently. Deprivation includes any absence that prevents the family from relying on the missing parent’s support or care of the child. This can occur for many reasons, including divorce, separation, desertion, incarceration, deportation, or hospitalization. Absence for active military duty does not constitute&nbsp;continued absence from the home.</p><p dir=\"ltr\"><strong>Active Military Duty</strong></p><p dir=\"ltr\">A parent who is absent solely by reason of the performance of active duty in the uniformed services of the United States is not considered&nbsp;continually absent from the home.</p><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.90(c)(iii)</p><h4 dir=\"ltr\">Two-Parent Household</h4><p dir=\"ltr\">How is physical or mental incapacity established?</p><p dir=\"ltr\">For a parent to be considered incapacitated, the existence of a physical or mental defect, illness, or impairment must be supported by a medical diagnosis that is verified by a physician’s statement. The incapacity must be so debilitating as to reduce substantially or eliminate the parent’s ability to support or care for child. The incapacity must be expected to last for at least 30 days. The parent’s receipt of Supplemental Security Income (SSI) or Retirement, Survivors, and Disability Insurance (RSDI) based on a disability or blindness is also acceptable proof of incapacity.</p><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.90(c)(1)(iv)</p><p dir=\"ltr\"><strong>How is underemployment of the primary wage earner established?</strong></p><p dir=\"ltr\">If a child is living with both parents, deprivation exists when the primary wage earner (PWE) parent is underemployed. The PWE is the parent who had the most earned income in the previous two years. The parents can identify which of them is the PWE based upon this criterion. The PWE is considered “underemployed” when:</p><ul><li><p dir=\"ltr\">the PWE is working less than 100 hours per month;</p></li><li><p dir=\"ltr\">the PWE is averaging less than 100 hours per month, if working intermittently, or</p></li><li><p dir=\"ltr\">he PWE’s monthly gross income does not exceed the income limit for the size of the certified group, as listed in&nbsp;<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-d-income-guidelines\">Appendix 1530-D</a>: Income Guidelines for Underemployed Parent for Parental Deprivation.</p></li></ul><p class=\"text-align-right\" dir=\"ltr\">45 CFR §233.100</p><h4 dir=\"ltr\">Examples and Special Situations</h4><p dir=\"ltr\"><strong>Unwed Parents Living Together</strong></p><p dir=\"ltr\">If a child lives with the mother and the biological father, who admits paternity but is not the child’s legally presumed father, the eligibility specialist determines deprivation as follows:</p><ul><li><p dir=\"ltr\">&nbsp;If mother is or was married (other than by common law) to another man whom the law presumes to be the child’s legal father, then the child is deprived based on absence from the home of the man whom the law recognizes as the child’s father.</p></li><li><p dir=\"ltr\">&nbsp;If the mother was married by common law to another man at the time the child was conceived, but at least two years have passed without the filing of suit for proof of their marriage after the common law couple separated and ceased living together, there is no presumed father and deprivation does not exist.</p></li><li><p dir=\"ltr\">&nbsp;If there is no other man whom the law presumes to be the child’s father, then the child can only be deprived by:&nbsp;</p><ul><li><p dir=\"ltr\">parental incapacity, or&nbsp;</p></li><li><p dir=\"ltr\">underemployment of either the mother or biological father who are living together, whichever is the primary wage earner (PWE).</p></li></ul></li></ul><p dir=\"ltr\"><strong>Unwed Parents – Paternity Uncertain</strong></p><p dir=\"ltr\">If the child’s paternity is uncertain, the eligibility specialist determines parental deprivation as follows:</p><ul><li><p dir=\"ltr\">&nbsp;If a child is living with the mother and a man who may be the child’s natural father, but the couple disagrees about paternity, and there is no legally presumed father, then there is insufficient basis upon which to reach a conclusion regarding deprivation based on absence from the home. If deprivation cannot be established by incapacity or underemployment, the case would be certified state-paid and monitored for the court determination regarding paternity. Once there is an adjudication of paternity, the case must be reviewed again for deprivation now that the legal father has been established. If the man that was living in the home at the time of the child’s removal is adjudicated to be the child’s father, then deprivation cannot exist by reason of absence from the home.</p></li><li><p dir=\"ltr\">If a child is living with the mother and a man who both agree is NOT child’s natural parent, and there is no legally presumed father, then child is deprived.</p></li></ul><p dir=\"ltr\"><strong>Active Military Service</strong></p><p dir=\"ltr\">If the father is on active military service overseas, the eligibility specialist determines parental deprivation as follows:</p><ul><li><p dir=\"ltr\">&nbsp;If a child is living only with the mother, but the father would be present in the home if he were not on active military service overseas, then the child is not deprived because of parental absence. When the sole reason why a mother or father is not in the home is because of active military service, then that parent is not considered absent.</p></li><li><p dir=\"ltr\">If child is living with mother and biological father, but the mother is married to a man who is in military service, there is no deprivation.</p></li></ul><h4 dir=\"ltr\">Tool for Determining Deprivation</h4><div dir=\"ltr\" align=\"left\"><table><tbody><tr><td><p dir=\"ltr\">If child is removed from the mother and mother is:</p></td><td><p dir=\"ltr\">Then:</p></td><td><p dir=\"ltr\">Action</p></td></tr><tr><td><p dir=\"ltr\">1. &nbsp; living with biological father of the child AND:</p><p dir=\"ltr\">&nbsp;• &nbsp; the biological father agrees he is the father of the child, AND:</p><p dir=\"ltr\">&nbsp;• &nbsp; the mother is still legally married to another man outside the home who is the legally presumed father…</p></td><td><p dir=\"ltr\">the child is deprived because the mother’s husband is considered the child’s father, and is absent from the home.</p></td><td><p dir=\"ltr\">&nbsp;</p></td></tr><tr><td><p dir=\"ltr\">2. &nbsp; living with biological father of the child AND:</p><p dir=\"ltr\">&nbsp;• &nbsp; the biological father agrees he is the father of the child, AND:</p><p dir=\"ltr\">&nbsp;• &nbsp; there is no legally presumed father…</p></td><td><p dir=\"ltr\">the child does not meet deprivation based on absence from the home.</p></td><td><p dir=\"ltr\">The foster care eligibility specialist must determine whether the parents meet deprivation based on the criteria for disability. If the parents do not meet the criteria for disability, the foster care eligibility specialist must determine whether the parents meet criteria for underemployed parent.</p></td></tr><tr><td><p dir=\"ltr\">3. &nbsp; living with a man that both she and he state is NOT the biological father (and he is not a “presumed” father by legal definition) …</p><p dir=\"ltr\">In this appendix under the subheading Parental Deprivation, see “<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-f-categorical-requirements-2#:~:text=acknowledgment%20of%20paternity.-,When%20is%20a%20man%20legally%20presumed%20to%20be%20the%20child%E2%80%99s%20father%3F,-By%20statute%2C%20a\">When is a man legally presumed to be the child’s father?</a></p></td><td><p dir=\"ltr\">the child is deprived based on absence from the home.</p><p dir=\"ltr\">&nbsp;</p></td><td><p dir=\"ltr\">&nbsp;</p></td></tr><tr><td><p dir=\"ltr\">4. &nbsp; living with a man and there is a discrepancy or disagreement about who the natural father is (and there is no presumed father by legal definition) …</p><p dir=\"ltr\">In this appendix under the subheading Parental Deprivation, see “<a href=\"/foster/tx-child-protective-services-handbook-appendices-appendix-1530-f-categorical-requirements-2#:~:text=acknowledgment%20of%20paternity.-,When%20is%20a%20man%20legally%20presumed%20to%20be%20the%20child%E2%80%99s%20father%3F,-By%20statute%2C%20a\">When is a man legally presumed to be the child’s father?</a>“</p></td><td><p dir=\"ltr\">A determination of parental deprivation cannot be made until a legal father is determined by court order or proper Acknowledgement of Paternity as described in “When is a man legally presumed to be the child’s father?”</p></td><td><p dir=\"ltr\">The child must be certified state-paid until a legal father is determined by court order or proper Acknowledgement of Paternity. When the legal father determination is made, the foster care eligibility specialist must determine deprivation based on who the father is. If deprivation is met, the foster care eligibility specialist must then re-review the case for other IV-E eligibility criteria.</p><p dir=\"ltr\">If the child meets all IV-E eligibility criteria, the foster care eligibility specialist may change the child’s eligibility to the date the child entered foster care.</p></td></tr></tbody></table></div>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Care Investigations Handbook :: Definitions of Terms",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250312184252/https://www.dfps.texas.gov/handbooks/CCI/Files/CCI_px_Definitions.asp",
+    "stateNumber": 8,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Court system",
+      "Definitions",
+      "Expectations for care",
+      "Group and residential care",
+      "Investigations",
+      "Legal process",
+      "Resources and Info",
+      "Safety",
+      "Services while in care - Medical"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p><strong>Abuse</strong></p><p><em>CCI Definition September 2021</em></p><p>As defined in&nbsp;Texas Family Code §261.001(1), with further description of varying types of abuse in the following sections of the Texas Administrative Code (TAC):</p><p>40 TAC §707.787</p><p>40 TAC §707.789</p><p>40 TAC §707.791</p><p>40 TAC §707.797</p><p><strong>Administrative Review of Investigation Findings</strong></p><p><em>CCI Definition September 2021</em></p><p>An informal evaluation conducted by Complex Investigations Division staff to determine whether a&nbsp;<em>Reason to Believe</em>&nbsp;disposition was appropriate, according to applicable statutes, administrative rules, and policy. See&nbsp;40 TAC §§707.815-707.831.</p><p><strong>Administrator</strong></p><p><em>CCI Definition September 2021</em></p><p>See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=Code%20%C2%A742.002(1).-,Child%20Care%20Administrator,-CCI%20Definition%20September\">child care administrator</a>.</p><p><strong>After School Hours</strong></p><p><em>CCI Definition September 2021</em></p><p>The hours before or after the customary school day.</p><p><strong>Alleged Perpetrator</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who meets both of the following criteria:</p><ul><li>The person works under the supervision of a child care facility subject to regulation under Human Resources Code Chapter 42 as defined in&nbsp;TFC §261.001(5)(F).</li><li>The person is suspected of being responsible for the alleged abuse, neglect, or exploitation of a child in care.</li></ul><p>See&nbsp;40 TAC §707.783.</p><p><strong>Alleged Victim</strong></p><p><em>CCI Definition September 2021</em></p><p>A child who meets both of the following criteria:</p><ul><li>The child is in the care of a child care facility that is subject to regulation under Human Resources Code Chapter 42.</li><li>The child is suspected of being a victim of abuse, neglect, or exploitation as defined in&nbsp;TFC §261.001.</li></ul><p><strong>ARIF</strong></p><p><em>CCI Definition September 2021</em></p><p>See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=40%20TAC%20%C2%A7707.797-,Administrative%20Review%20of%20Investigation%20Findings,-CCI%20Definition%20September\">Administrative Review of Investigation Findings</a>.</p><p><strong>Caregiver</strong></p><p><em>CCI Definition September 2021</em></p><p>A person whose duties include the supervision, guidance, and protection of a child or children. See&nbsp;40 TAC §707.703(a)(2).</p><p><strong>Central Registry</strong></p><p><em>CCI Definition September 2021</em></p><p>A database of people who have been found by DFPS’s Child Protective Investigations program, including Child Care Investigations, or Health and Human Services Provider Investigations program to have abused or neglected a child. Searches are done through IMPACT to determine whether a person is included in the central registry. See&nbsp;40 TAC §702.251–702.257.</p><p><strong>Child</strong></p><p><em>CCI Definition September 2021</em></p><p>A person under 18 years old. See&nbsp;Human Resources Code §42.002(1).</p><p><strong>Child Care Administrator</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who meets all of the following criteria:</p><ul><li>Licensed by HHS Child Care Regulation.</li><li>Supervises and exercises direct control over a residential child care operation.</li><li>Responsible for the operation’s program and personnel, regardless of whether he or she has an ownership interest in the operation or shares duties with anyone.</li></ul><p><strong>Child Care Center</strong></p><p><em>CCI Definition September 2021</em></p><p>A child day care operation that is licensed by HHS Child Care Regulation (CCR) to care for seven or more children for less than 24 hours per day, at a location other than the permit holder’s home, except as otherwise provided by CCR minimum standards.</p><p><strong>Child Care Home</strong></p><p><em>CCI Definition September 2021</em></p><p>See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=Registered%20Child%20Care%20Home\">registered child-care home</a>&nbsp;and&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=DFPS%20case%20records.-,Licensed%20Child%20Care%20Home,-CCI%20Definition%20September\">licensed child care home</a>.</p><p><strong>Child Care Facility</strong></p><p><em>CCI Definition September 2021</em></p><p>An establishment that meets both of the following criteria:</p><ul><li>Subject to regulation by HHS Child Care Regulation.</li><li>Provides any of the following for a child who is not related by blood, marriage, or adoption to the owner or operator of the facility for all or part of the 24-hour day, whether or not the establishment operates for profit or charges for its services:<ul><li>Assessment</li><li>Care</li><li>Training</li><li>Education</li><li>Custody</li><li>Treatment</li><li>Supervision</li></ul></li></ul><p>A child care facility includes the people, administration, governing body, activities on or off the premises, operations, buildings, grounds, equipment, furnishings, and materials. A child care facility does not include child placing agencies or listed family homes. See Texas&nbsp;Human Resources Code §42.002(3).</p><p><strong>Child Care Regulation (CCR or Licensing)</strong></p><p><em>CCI Definition September 2021</em></p><p>The division within Texas HHS that does the following:</p><ul><li>Regulates child day care and residential child care operations and other child care activities.</li><li>Licenses child care administrators and child placing agency administrators.</li></ul><p><strong>Child in Care</strong></p><p><em>CCI Definition September 2021</em></p><p>A child who is being cared for in a child care facility subject to regulation by HHS Child Care Regulation. This includes, but is not limited to, children in DFPS conservatorship.</p><p><strong>Child in DFPS Conservatorship</strong></p><p><em>CCI Definition September 2021</em></p><p>A child for whom DFPS has been named the legal managing conservator. Also referred to as&nbsp;<em>child in DFPS care</em>.</p><p><strong>Child Placing Agency (CPA)</strong></p><p><em>CCI Definition September 2021</em></p><p>A person or organization, other than the child’s parents, who plans for the placement of or places a child in a child care operation or adoptive home. A CPA is a residential child care operation licensed by HHS Child Care Regulation. See&nbsp;Human Resources Code §42.002(12).</p><p><strong>Child Placing Agency Administrator</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who meets the following criteria:</p><ul><li>Supervises and exercises direct control over a child placing agency (CPA).</li><li>Is responsible for the CPA’s program and personnel, regardless of whether he or she has an ownership interest in the CPA or shares duties with anyone.</li></ul><p><strong>Child Sexual Aggression</strong></p><p><em>CCI Definition September 2021</em></p><p>Sexual behavior in which a child takes advantage of another person in a sexual way through seduction, coercion, or force in accordance with the following definitions:</p><ul><li><em>Seduction&nbsp;</em>is defined as the use of charm, manipulation, promises, gifts, or flattery to induce a person to engage in sexual behavior.</li><li><em>Coercion&nbsp;</em>is defined as the exploitation of authority or the use of bribes, threats of force, or intimidation to gain cooperation or compliance.</li><li><em>Force&nbsp;</em>is defined as the threat or use of physical or emotional harm toward a person or someone or something a person cares about.</li></ul><p><strong>CLASS</strong></p><p><em>CCI Definition September 2021</em></p><p>The Child Care Licensing Automation Support System (CLASS) is a computer application managed by Health and Human Services (HHS) Child Care Regulation (CCR) for recording licensing actions and compliance history for child care operations regulated in Texas.</p><p><strong>Critical Injury</strong></p><p><em>CCI Definition September 2021</em></p><p>See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=the%20recent%20past.-,Near%20Fatal%20Injury,-CCI%20Definition%20September\">near fatal injury</a>.</p><p><strong>Designated Perpetrator</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who meets the following criteria:</p><ul><li>DFPS found that the person abused, neglected, or exploited a child.</li><li>The person is listed in the DFPS Central Registry.</li><li>The person has not exhausted his or her right to a due process hearing.</li></ul><p>See&nbsp;40 TAC §707.703(a)(8)&nbsp;and&nbsp;Texas Family Code §261.001.</p><p><strong>Determination of Immediate Threat</strong></p><p><em>CCI Definition September 2021</em></p><p>A determination made by Texas Health and Human Services Child Care Regulation that a person’s presence constitutes an immediate threat or danger to the health, safety, or well-being of children in the care of a child care operation.</p><p><strong>Director</strong></p><p><em>CCI Definition September 2021</em></p><p>The adult designated to have the daily on-site responsibility for the operation of the licensed child care center.</p><p><strong>Discipline</strong></p><p><em>CCI Definition September 2021</em></p><p>A form of guidance that is constructive or educational in nature and appropriate to the child’s age, development, situation, and severity of behavior.</p><p><strong>Disposition</strong></p><p><em>CCI Definition September 2021</em></p><p>See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=40%20TAC%20%C2%A7707.799.-,Finding,-CCI%20Definition%20September\">finding</a>.</p><p><strong>DPS Name-Based Background Check</strong></p><p><em>CCI Definition September 2021</em></p><p>A name-based search of the Texas Department of Public Safety (DPS) database of crimes committed in Texas. Results consist of arrests and outcomes, including convictions and cases with unknown dispositions.</p><p><strong>Due Process Hearing</strong></p><p><em>CCI Definition September 2021</em></p><p>A formal legal proceeding that provides a designated perpetrator the right to challenge CCI’s finding of abuse, neglect, or exploitation in an impartial setting before an administrative law judge from the State Office of Administrative Hearings (SOAH). Also referred to as a&nbsp;<em>release hearing</em>.See&nbsp;40 TAC §707.841-707.859.</p><p><strong>Emergency Behavior Intervention</strong></p><p><em>CCI Definition September 2021</em></p><p>Interventions used in an emergency situation, including personal restraints, mechanical restraints, emergency medication, and seclusion.</p><p><strong>Emergency Release</strong></p><p><em>CCI Definition September 2021</em></p><p>During the course of a CCI investigation, CCI may consult with Texas Health and Human Services regarding concerns that a person’s presence at an operation poses an unmitigated and immediate threat or danger to the health, safety, or well-being of children in the care of a child care operation. See&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=Family%20Code%20%C2%A7261.001.-,Determination%20of%20Immediate%20Threat,-CCI%20Definition%20September\">determination of immediate threat</a>.</p><p><strong>Exempt from Regulation</strong></p><p><em>CCI Definition September 2021</em></p><p>Certain facilities or programs that can operate legally without receiving a permit from Texas Health and Human Services Child Care Regulation, as specified by&nbsp;HRC §42.041(b).</p><p><strong>Exploitation</strong></p><p><em>CCI Definition September 2021</em></p><p>As defined in&nbsp;Texas Family Code §261.001(3)&nbsp;and&nbsp;40 TAC §707.799.</p><p><strong>Finding</strong></p><p><em>CCI Definition September 2021</em></p><p>The results of an investigation indicating whether a preponderance of the evidence indicates, does not indicate, or is unable to indicate that a child or children were abused, neglected, or exploited while in the care of a child care operation.</p><p><strong>Foster Home (CPA)</strong></p><p><em>CCI Definition September 2021</em></p><p>A home that meets the following criteria:</p><ul><li>It is verified (monitored and regulated) by a child placing agency.</li><li>It is the primary residence of the foster parents.</li><li>It provides care for six or fewer children or young adults for 24 hours a day.</li></ul><p>See&nbsp;Texas Human Resources Code §42.002(6).</p><p><strong>Foster Home (Independent)</strong></p><p><em>CCI Definition September 2021</em></p><p>A licensed operation that provides residential child care for six or fewer children up to 18 years old. An independent foster home is not affiliated with a child placing agency but is monitored and regulated directly by HHS Child Care Regulation.</p><p><strong>General Residential Operation</strong></p><p><em>CCI Definition September 2021</em></p><p>A child care facility that provides care for more than seven children for 24 hours a day, including facilities known as children’s homes, halfway houses, residential treatment centers, emergency shelters, and therapeutic camps. See Texas&nbsp;Human Resources Code §42.002(4).</p><p><strong>Genuine Threat</strong></p><p><em>CCI Definition September 2021</em></p><p>A verbal or behavioral expression of intent that appears true, likely, or believable and presents a substantial risk. Genuine threats include, but are not limited to, threats of choking, suffocating, or shaking a child, or hitting a child on the head. See&nbsp;40 TAC §707.789(b)(2).</p><p><strong>Governing Body</strong></p><p><em>CCI Definition September 2021</em></p><p>The entity with ultimate authority and responsibility for the child care operation.</p><p><strong>Governing Body Designee</strong></p><p><em>CCI Definition September 2021</em></p><p>The person who is both of the following:</p><ul><li>Named on an application as the designated representative of a governing body.</li><li>Officially authorized by the governing body to speak for and act on its behalf in a specified capacity.</li></ul><p><strong>Household Member</strong></p><p><em>CCI Definition September 2021</em></p><p>A person, other than the caregiver, who resides in an operation.</p><p><strong>Illegally Operating Child Care Facility</strong></p><p><em>CCI Definition September 2021</em></p><p>An operation that provides child care that is subject to regulation but does not have a permit and is not in the process of applying for a permit.</p><p><strong>IMPACT</strong></p><p><em>CCI Definition September 2021</em></p><p>Information Management Protecting Adults and Children in Texas (IMPACT) is the electronic case management system which consists of DFPS case records.</p><p><strong>Licensed Child Care Home</strong></p><p><em>CCI Definition September 2021</em></p><p>A child day care operation that is licensed. The primary caregiver provides care in the caregiver’s own residence for children from birth through 13 years old. The total number of children in care varies with the ages of the children, but the total number of children in care at any given time, including the children related to the caregiver, must not exceed 12.</p><p><strong>Listed Family Home</strong></p><p><em>CCI Definition September 2021</em></p><p>A child day care operation that receives a listing permit. The caregiver is at least 18 years old and provides care for compensation in the caregiver’s own home for three or fewer children unrelated to the caregiver from birth through 13 years old. Care is provided for at least four hours a day, three or more days a week, and for more than three consecutive weeks. The total number of children in care, including children related to the caregiver, must not exceed 12.</p><p><strong>Minimum Standards</strong></p><p><em>CCI Definition September 2021</em></p><p>The minimum requirements for child care operations, enforced by HHS Child Care Regulation to protect the health, safety, and well-being of children.</p><p><strong>Multiple Referral Investigation</strong></p><p><em>CCI Definition September 2021</em></p><p>An investigation involving an operation that has had a high frequency of investigations in the recent past.</p><p><strong>Near Fatal Injury</strong></p><p><em>CCI Definition September 2021</em></p><p>Near fatal injuries are a subset of serious injuries in which the child would likely have died as a result of the injury or medical condition if the child did not get medical attention. In most circumstances, medical intervention includes admittance to an intensive care unit. Previously known as&nbsp;<em>critical injury</em>.</p><p><strong>Neglect</strong></p><p><em>CCI Definition September 2021</em></p><p>As defined in&nbsp;TFC §261.001(4), with further explanation provided in&nbsp;40 TAC §707.801.</p><p><strong>Operation</strong></p><p><em>CCI Definition September 2021</em></p><p>A program that may be subject to regulation by HHS Child Care Regulation. An operation includes the building and grounds where the program is offered, any person involved in providing the program, and any equipment used in providing the program. An operation includes a child care facility, child placing agency, or listed family home. See&nbsp;40 TAC §707.703(a)(7).</p><p><strong>Parent</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who has legal responsibility for or legal custody of a child, including the managing conservator or legal guardian. See&nbsp;40 TAC §707.703(a)(11).</p><p><strong>Preponderance of Evidence</strong></p><p><em>CCI Definition September 2021</em></p><p>A standard of evidence used in due process hearings and some civil hearings in which the facts sought to be proved are more probable than not. Sometimes this is referred to as the&nbsp;<em>51 percent standard</em>. This is the standard of evidence used to confirm the finding of a CCI investigation and in due process hearings.</p><p><strong>Primary Medical Needs</strong></p><p><em>CCI Definition September 2021</em></p><p>The needs of children who require the use of sterile techniques or specialized procedures to promote healing, prevent infection, prevent cross-infection or contamination, or prevent tissue breakdown.</p><p><strong>Provider</strong></p><p><em>CCI Definition September 2021</em></p><p>A person or entity operating an operation subject to regulation.</p><p><strong>Registered Child Care Home</strong></p><p><em>CCI Definition September 2021</em></p><p>A child day care operation regulated by HHS Child Care Regulation. The caregiver provides care in the caregiver’s own residence for no more than six children from birth through 13 years old and may provide care&nbsp;<a href=\"/foster/tx-child-care-investigations-handbook-definitions-terms#:~:text=care%20administrator.-,After%20School%20Hours,-CCI%20Definition%20September\">after school hours</a>&nbsp;for no more than six additional elementary school children. The total number of children in care at any given time, including the children related to the caregiver, must not exceed 12. The term does not include a home that provides care exclusively for any number of children who are related to the caregiver.</p><p><strong>Reporter</strong></p><p><em>CCI Definition September 2021</em></p><p>The person who makes a report to DFPS. Texas law requires anyone who suspects a child is being abused, neglected, or exploited to report it to DFPS. See&nbsp;Texas Family Code §261.101.</p><p><strong>Report</strong></p><p><em>CCI Definition September 2021</em></p><p>A statement that alleged or suspected abuse, neglect, or exploitation of a child has occurred or may occur. For the purposes of Child Care Investigations, reports refer to children in the care of a child care facility subject to regulation under Human Resources Code Chapter 42. See&nbsp;Texas Family Code §261.001(6)&nbsp;and&nbsp;40 TAC §707.703(a)(10).</p><p><strong>Residential Child Care</strong></p><p><em>CCI Definition September 2021</em></p><p>The care, custody, supervision, assessment, training, education, or treatment of an unrelated child or children up to 18 years old for 24 hours a day that occurs in a place other than the child’s own home. Residential child care also includes child placing agencies.</p><p><strong>Residential Treatment Center (RTC)</strong></p><p><em>CCI Definition September 2021</em></p><p>An operation that exclusively provides care and treatment services for emotional disorders for children up to 18 years old.</p><p><strong>Serious Injury</strong></p><p><em>CCI Definition September 2021</em></p><p>Any physical injury to a child that requires medical treatment and resulted or may result in impairment to the child’s overall health or well-being. This includes near fatal injuries, but does not include any of the following:</p><ul><li>Injuries for which a child is evaluated by a professional as a precaution.</li><li>Injuries for which first aid is administered at the operation, but no further treatment by a medical professional is warranted.</li><li>Medical events due to routine, ongoing medical issues, such as asthma or seizures.</li></ul><p><strong>Service Plan</strong></p><p><em>CCI Definition September 2021</em></p><p>A plan that identifies a child’s basic and specific needs and how those needs will be met.</p><p><strong>Subject to Regulation</strong></p><p><em>CCI Definition September 2021</em></p><p>An operation that provides or desires to provide child care and is required under the Texas Human Resources Code to obtain a permit.</p><p><strong>Substantial Harm</strong></p><p><em>CCI Definition September 2021</em></p><p>Bodily harm or an observable impairment in a child’s psychological growth, development, or functioning that is significant enough to require treatment by a medical or mental health professional.</p><p><strong>Sustained Finding</strong></p><p><em>CCI Definition September 2021</em></p><p>A finding of&nbsp;<em>Reason to Believe</em>&nbsp;that was upheld by an administrative law judge from the State Office of Administrative Hearings (SOAH) or through the perpetrator’s defaulting on the opportunity for a due process hearing.</p><p><strong>Sustained Perpetrator</strong></p><p><em>CCI Definition September 2021</em></p><p>A person who meets all of the following criteria:</p><ul><li>The person is listed in the DFPS Central Registry for a finding of abuse, neglect, or exploitation of a child.</li><li>The person was offered his or her rights to an administrative review and due process hearing.</li><li>The rights to the review and hearing have expired or the abuse or neglect finding was upheld in the due process hearing.</li></ul><p>See&nbsp;40 TAC §707.857(c)(1).</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Care Investigations Handbook :: 3300 Assessing and Processing Intake Reports :: 3322 Assessing an Intake Report for Priority",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250313002928/https://www.dfps.texas.gov/handbooks/CCI/Files/CCI_pg_3000.asp#CCI_3322",
+    "stateNumber": 9,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Investigations",
+      "Reporting requirements",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>Each intake report that warrants an investigation must be assessed to determine the correct priority. This review must be completed quickly enough to meet requirements for time frames for initiating investigations.</p><p>All intake reports are assigned priorities based on the following factors:</p><ul><li>The information available at the time of intake.</li><li>The presence of current threats to the child’s immediate safety.</li><li>The degree of harm the child has sustained or may sustain in the foreseeable future.</li><li>The allegation that presents the greatest risk to the child, if multiple allegations are reported.</li></ul><p>A screener, supervisor, or designee reviews and assesses each intake report containing an allegation of abuse, neglect, or exploitation to assess the priority and may change the priority assigned by SWI, if necessary.</p><p class=\"text-align-right\"><em>HHSC Rules, 1 TAC&nbsp;§351.503(b)(5)</em></p><p class=\"text-align-right\"><em>DFPS Rules, 40 TAC §707.715</em></p><p><strong>Prioritizing an Intake Report Involving an Illegal Operation</strong></p><p>An intake report involving an operation that is operating without a permit is prioritized according to the same policies as an intake report involving an operation that is operating legally, if there are allegations of abuse, neglect, or exploitation.</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Foster and Licensed Facility Placements Resource Guide :: Seeking Placement Through the Regional Placement Team :: Disallowing Placement",
+    "state": "Texas",
+    "source": "https://wustl.box.com/s/p5pme8h68rkrwpa59wjqwal1klr1to8p",
+    "stateNumber": 10,
+    "years": [
+      "2023",
+      "2022"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Foster parent licensing",
+      "Investigations",
+      "Legal process",
+      "Moves while in care",
+      "Placement",
+      "Reporting requirements",
+      "Resources and Info",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>If a caseworker has a serious concern and is considering disallowing new placements with a particular foster family, the caseworker thoroughly documents the reasons to consider disallowing new placements and submits this documentation to his or her direct supervisor.</p><ol><li>Staff follows these steps to review and approve the recommendation.<br>Each level in the chain of command, up to the regional director, must approve the recommendation and the reasons for disallowing new placements.</li><li>If the regional director approves the recommendation, the regional director must submit the recommendation and documentation to the CPS director of placement or designee.</li><li>The Placement division and fellow divisions, Residential Child Care Contracts, and Legal, confer to make a final determination whether to disallow further placements into the identified foster home. CPS may consult with Residential Child Care Licensing to obtain the compliance history of the CPA and foster home.</li><li>If the final determination is to disallow further placements, the director of Placement must notify the director of Residential Child Care Contracts and director of Residential Child Care Licensing of this determination.</li><li>In coordination with the Legal division and in collaboration with RCCL, Residential Contracts and CPS Program, the CPS State Office Director of Placement or designee must draft a notification letter to the foster family’s CPA outlining CPS's concerns. This notification must include an opportunity for the CPA staff to meet and attempt to resolve these concerns. This meeting would include representatives of Program, Residential Child Care Contracts, or Legal staff, as appropriate. CPS may invite Residential Child Care Licensing to the meeting to consult on the compliance history of the operation and foster home.</li><li>After representatives from state office Division of Placement and Residential Child Care Contracts formally notify the CPA, the director of Placement or designee must notify the regions that they cannot officially conduct further placements into the identified foster family.</li><li>A representative from the state office Placement division must notify all key DFPS staff of this action. The representative shares the Disallowed Placement status with regional placement staff, so that placement is discontinued to the identified foster family.</li></ol><p>If the identified foster family has current placements, CPS evaluates whether to remove any children on a case-by-case basis according to the individual child’s needs. For these placements, staff reviews each individual child’s situation with the chain of command to make a placement decision that is in the best interest of that child.</p><p>Page 12</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: Foster and Licensed Facility Placements Resource Guide :: Seeking Placement Through the Regional Placement Team :: Foster Family-Homes Definition",
+    "state": "Texas",
+    "source": "https://wustl.box.com/s/p5pme8h68rkrwpa59wjqwal1klr1to8p",
+    "stateNumber": 11,
+    "years": [
+      "2023",
+      "2022"
+    ],
+    "tags": [
+      "Aging out of the foster system",
+      "Definitions",
+      "Disability and exceptional needs",
+      "Expectations for care",
+      "Group and residential care",
+      "Placement",
+      "Resources and Info",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health",
+      "Services while in care - Other",
+      "Services while in care - Therapies (not mental health)"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>A home that is the foster parent's primary residence and provides care for six or fewer children or young adults, under the regulation of a child-placing agency.&nbsp;</p><p><strong>Types of Services&nbsp;</strong></p><p>Depending on license and verification, foster family-homes can provide any of the following services:</p><ul><li>child care;</li><li>treatment services, which include treatment for emotional disorder, pervasive developmental disorder, intellectual and developmental disability; and</li><li>transitional living.&nbsp;</li></ul><p><strong>Additional Programmatic Services include:</strong></p><ul><li>respite child-care services; and</li><li>services for children with primary medical needs. Treatment Foster Family Care&nbsp;</li></ul><p><strong>Definition&nbsp;</strong></p><p>A Treatment Foster Family Care home is a short-term individualized therapeutic placement in a highly structured home environment for youth with intense and complex needs.&nbsp;</p><p><strong>Types of Services&nbsp;</strong></p><ul><li>TFFC homes provide the following services: Individualized, strengths-based therapeutic services and case management</li><li>24/7 in-home crisis intervention and placement stabilization services for the child and/or family</li><li>Strong clinical supervision</li><li>Formal respite system</li><li>Treatment service planning, with a review occurring every 60 days</li><li>Discharge planning, transition services, and aftercare support</li><li>Preparation and training for adulthood, social skills training, and normalcy activities based on age and maturity</li><li>Transportation Appropriateness&nbsp;</li></ul><p>Treatment Foster Family Care homes are appropriate for children and adolescents who:</p><ul><li>Have history of multiple, unsuccessful placements</li><li>Were placed in or recommended for residential placement</li><li>Were placed in and are discharging from a psychiatric hospital</li><li>Have history of aggressive or antisocial behavior&nbsp;</li></ul><p>Page 11</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: 5560 Involuntary and Voluntary Termination of Parental Rights :: 5564.15 Court-Ordered Service Plan",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250303171053/https://www.dfps.texas.gov/handbooks/CPS/Files/CPS_pg_5560.asp#CPS_5564_15",
+    "stateNumber": 12,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018"
+    ],
+    "tags": [
+      "Administrative process",
+      "Birth parents",
+      "Court system",
+      "Eligibility",
+      "Termination of parental rights"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>A parent’s failure for at least nine months to comply with a court-ordered service plan that specifies the actions necessary to regain custody of a child in DFPS care is a ground for termination. A court cannot order termination on this ground, however, if the parent’s inability to comply with specific provisions is not parent’s fault.</p><p class=\"text-align-right\"><em>Texas Family Code §161.001(b)(1)(O); 161.001(d)</em><br>&nbsp;</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: 5200 Notice, Service, and Working with Attorneys and Advocates :: 5220 The Child’s Best Interest",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250307132750/https://www.dfps.texas.gov/handbooks/CPS/Files/CPS_pg_5200.asp#CPS_5220",
+    "stateNumber": 13,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Child rights",
+      "Disability and exceptional needs",
+      "Expectations for care",
+      "Permanency",
+      "Placement",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>In determining what action is in the best interest of the child, the caseworker must consider any fact relevant to an individual child’s safety and permanency.</p><p>This includes, but is not limited to:</p><p>&nbsp;•&nbsp;&nbsp; the child’s desires;</p><p>&nbsp;•&nbsp;&nbsp; the child’s present and future emotional and physical needs;</p><p>&nbsp;•&nbsp;&nbsp; the child’s present and future emotional and physical danger;</p><p>&nbsp;•&nbsp;&nbsp; the parenting abilities of persons seeking custody;</p><p>&nbsp;•&nbsp;&nbsp; the programs available to assist the persons who are seeking custody;</p><p>&nbsp;•&nbsp;&nbsp; the plans for the child by the persons seeking custody or by DFPS;</p><p>&nbsp;•&nbsp;&nbsp; the stability of the home or proposed placement;</p><p>&nbsp;•&nbsp;&nbsp; any parental acts or omissions that show that the relationship is not proper;</p><p>&nbsp;•&nbsp;&nbsp; any reason for the parent’s acts and omissions.</p><p class=\"text-align-right\"><em>Holley v. Adams, Texas Supreme Court,</em> 1976</p><p>The caseworker must also consider the specific factors listed in the Texas Family Code §263.307.</p><p>The caseworker must identify the facts about an individual child that are important, such as:</p><p>&nbsp;•&nbsp;&nbsp; the child’s exposure to domestic violence, substance abuse, or criminal activities;</p><p>&nbsp;•&nbsp;&nbsp; the child’s abuse and neglect history;</p><p>&nbsp;•&nbsp;&nbsp; the child’s emotional, medical, educational, therapeutic, social, or cultural needs;</p><p>&nbsp;•&nbsp;&nbsp; the child’s special needs or developmental delays, if any; and</p><p>&nbsp;•&nbsp;&nbsp; any other important information about how to best meet a specific child’s needs for safety, stability, and permanency.</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: 6400 Services to Children in Substitute Care :: 6455 Youth Enlisting in the Military",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250317205957/https://www.dfps.texas.gov/handbooks/CPS/Files/CPS_pg_6400.asp#CPS_6455",
+    "stateNumber": 14,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017"
+    ],
+    "tags": [
+      "Administrative process",
+      "Court system",
+      "Legal process",
+      "Reporting requirements",
+      "Services while in care - Medical",
+      "Termination of parental rights"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>When a youth under the age of 18 in the conservatorship of DFPS wishes to enlist in the military, approval must be given by the following:</p><p>&nbsp;•&nbsp;&nbsp; Parents, unless parental rights have been terminated</p><p>&nbsp;•&nbsp;&nbsp; Guardian ad-litem</p><p>&nbsp;•&nbsp;&nbsp; Attorney ad-litem</p><p>&nbsp;•&nbsp;&nbsp; Regional director</p><p>&nbsp;•&nbsp;&nbsp; Court</p><p>The youth must have a complete medical assessment by the youth’s primary care physician before seeking approval to join the military.</p><p>Approvals must be in writing and a copy placed in the youth’s record.</p>\n  </div>"
+  },
+  {
+    "ruleName": "TX :: Child Protective Services Handbook :: 6400 Services to Children in Substitute Care :: 6411.1 Federal Requirements",
+    "state": "Texas",
+    "source": "https://web.archive.org/web/20250317205957/https://www.dfps.texas.gov/handbooks/CPS/Files/CPS_pg_6400.asp#CPS_6411_1",
+    "stateNumber": 15,
+    "years": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Meeting",
+      "Permanency",
+      "Placement",
+      "Safety",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>The caseworker visits the child, at a minimum, on a monthly basis. These visits must be well-planned and focused on issues relevant to case planning and service delivery to ensure the safety, permanency, and well-being of the child. The majority of the visits must occur in the child’s current residence. The requirement that the majority of visits occur at the residence means that there is at least one visit each month at the residence in a majority of the months in a calendar year. Some visits to the residence are unannounced.</p><p class=\"text-align-right\">42 United States Code (USC) 622(b); 42 USC 624(f)</p><p>For more guidelines and information on contacts with the child and monthly visits, see the <a href=\"https://wustl.box.com/s/zutefgmccr0l9rhm04hsnnrycy53j61k\">Services to Children in Substitute Care Resource Guide</a>.</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-7 Background Screening",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 1,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Forms - Other",
+      "Investigations",
+      "Kinship",
+      "Out-of-state",
+      "Placement",
+      "Reporting requirements",
+      "Safety",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) As part of the evaluation of capacity for ongoing care of a child, in addition to background screening required for preliminary placement, anyone over the age of 18 years in the home must complete an FBI fingerprint-based criminal history records check. Background screening for placement with the non-custodial parent is subject to Sections 80-3-302, 80-3-303, and 80-3-305, or court order.</div><div>(2) A Utah child abuse registry check will be completed for persons over the age of 18 years residing in the home. If any person 18 years of age or older residing in the home has lived out of Utah in the five years immediately preceding the date of the application, a child abuse and neglect registry check must be completed for any state in which the individual resided.</div><div>(3) Persons 18 years of age and older living in the household must provide the following information on a form provided by Child and Family Services in order for background screening to be conducted:</div><div>(a) full first, middle, last, maiden, alias, and previous married names;</div><div>(b) Social Security number, if a number has been issued;</div><div>(c) proof of identity verified by a government-issued photo identification;</div><div>(d) date of birth;</div><div>(e) the potential kinship caregiver and applicable adults living in the household shall provide fingerprints from an authorized law enforcement agency or designated electronic scanning site; and</div><div>(f) if the applicant has lived outside of Utah in the five years preceding the date of the application, a list of the states the applicant has lived in must be provided.</div><p>Page 3</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-6 Evaluation of Capacity for Ongoing Care of a Child",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 2,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Court system",
+      "Expectations for care",
+      "Foster parent licensing",
+      "Guardianship",
+      "Investigations",
+      "Kinship",
+      "Permanency",
+      "Placement",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The child and family team will determine the most appropriate relative or friend to meet the ongoing and permanency needs of the child:</div><div>(a) since the preliminary placement is made in an emergency situation, they may or may not be the most appropriate caregiver to meet the ongoing and permanency needs of the child; and</div><div>(b) the ongoing caregiver may be the kinship caregiver who is the preliminary placement or may be a different prospective caregiver.</div><div>(2) Child and Family Services will evaluate with the prospective relative or friend their capacity for ongoing care of the child as well as permanency if reunification efforts are not successful. The components of the evaluation process include:</div><div>(a) the child-specific home study for the relative or friend will include:</div><div>(i) results of the background screening;</div><div>(ii) obtaining positive written references from three different people known to the relative or friend expressing the referent's opinion about the family's ability to care for the child;</div><div>(iii) physical and emotional ability of the relative or friend to provide adequate care for the child;</div><div>(iv) understanding of family dynamics and how placement will impact relationships within the family;</div><div>(v) ability to provide for the child's safety and well-being needs and to support a plan for permanency;</div><div>(vi) analysis of the type of resources and support needed by the relative or friend to care for the child; and</div><div>(vii) ability of the home to meet required safety standards of the Division of Licensing and Background Checks; and</div><div>(b) providing information to the kinship caregiver to assist with considering options for ongoing care of the child, including:</div><div>(i) educating the kinship caregiver of the expectations of caring for a child who is under the jurisdiction of the court;</div><div>(ii) assessing the resources that may be available to assist the kinship caregiver in providing a stable placement for the child;</div><div>(iii) becoming a licensed out-of-home care placement for the child; and</div><div>(iv) requesting temporary custody and guardianship from the court.</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-5 Preliminary Placement",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 3,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Expectations for care",
+      "Kinship",
+      "Placement",
+      "Safety",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The requirements specified in Section 80-2a-301 must be met for preliminary placement of a child with a relative or friend.</div><div>(2) A decision to make a preliminary placement of a child with a relative or friend will include assessment of the following factors:</div><div>(a) the relative or friend's history of abusive or neglectful behavior toward other children that may show or present a danger to the child;</div><div>(b) the child is comfortable with the relative or friend;</div><div>(c) the relative or friend recognizes the parent's history of abuse and is committed to protect the child;</div><div>(d) the relative or friend is strong enough to resist inappropriate requests by the parent for access to the child, in accordance with court orders;</div><div>(e) the relative or friend is committed to caring for the child as long as necessary; and</div><div>(f) the relative or friend can provide a secure and stable environment for the child.</div><div>(3) Placement with friends are also subject to the child's preferences, comfort level and designation as specified in Section 80-3-302.</div><div>(4) A relative or friend must meet the background screening requirements.</div><div>(5) Assessment of safety will be based on safety decision-making principles, which include:</div><div>(a) potential threats of harm;</div><div>(b) vulnerabilities of the child; and</div><div>(c) protective capacities of the potential kinship caregiver and their support system.</div><div>(6) The limited home inspection specified in Section 80-2a-301 is required for a non-custodial parent, relative, or friend. The limited home inspection is conducted in the home of the prospective kinship caregiver to determine if there are apparent safety risks in the home that present a potential threat of harm to the child. The limited home inspection determines if the following are met:</div><div>(a) the home is free from observable health and fire hazards;</div><div>(b) there are adequate sleeping arrangements to meet the specific needs of each child; and</div><div>(c) any firearms, ammunition, hazardous chemicals, and medications are secured and not accessible to children.</div><div>(7) References may be contacted to obtain input regarding placing the child with the potential kinship caregiver or information about other available relatives or friends who may care for the child.</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-3 Philosophy",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 4,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Kinship",
+      "Permanency",
+      "Placement",
+      "Reunification",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Children need permanency through enduring relationships that provide stability, familiarity, and support for the culture of the child; support the child's sense of self based on existing attachments; provide for the child's safety and physical care; and connect the child to their past, present, and future through continuing family relationships. First priority is to maintain a child safely at home. However, if a child cannot safely remain at home, kinship care has the potential for providing these elements of permanency by virtue of the kin's knowledge of and relationship to the family and child.</div><div>(2) Kinship work is done in the context of a child and family team. Kinship care includes elements of child protection, in-home services, family preservation, and out-of-home care. When a child cannot safely remain home, kinship care is preferable to other out-of-home placements if the kinship caregiver can keep the child safe and appropriately meet the child's needs.</div><div>(3) The caregiver's willingness and ability to care for and keep the child safe are fundamental. The kinship caregiver must have or acquire knowledge of the child, be able to meet the child's needs, support reunification efforts, and be able to provide the child access to parents, siblings, and other family members through visits or caring for the child and siblings as a group.</div><div>(4) Ongoing assessment of the child's safety, permanence, and well-being is important to the stability and value of kinship care. Ongoing assessment of safety is based on the components of safety decision-making, which include threats of harm, vulnerabilities of the child, and protective capacities of the kinship caregiver and their support system.</div><div>(5) Providing for kinship care in the Child and Family Services spectrum of services requires due diligence to identify and locate kin families with whom children may form or continue relationships at home or in temporary or permanent placements. Support to kinship caregivers is essential to the success of the child's placement with the family and to the family's ability to respond to the needs of the child. As members of the child and family team, kinship caregivers will receive support from other family members and from informal and formal supports to provide for the child</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-2 Definitions",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 5,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Birth parents",
+      "Definitions",
+      "Kinship",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) \"Abuse\" is defined in Section 80-1-102.</div><div>(2) \"Child\" is defined in Section 80-1-102.</div><div>(3) \"Child and Family Services\" means the Division of Child and Family Services.</div><div>(4) \"Child and Family Team\" is defined in Rule R512-301.</div><div>(5) \"Friend\" is defined in Section 80-2a-101.</div><div>(6) For preliminary placements, \"Kinship caregiver\" means a non-custodial parent, relative, or friend who is selected for placement and care of a child in Child and Family Services custody.</div><div>(7) \"Neglect\" is defined in Section 80-1-102.</div><div>(8) \"Non-custodial parent\" is a natural parent as defined in Section 80-1-102 who is a biological or adoptive mother, an adoptive father, or a biological father who was married to the child's biological mother when the child was conceived or born, or who has had paternity established, who has not been granted legal custody of the child.</div><div>(9) \"Non-relative\" is defined in Section 80-2a-101.</div><div>(10) \"Preliminary placement\" means an out-of-home placement with a non-custodial parent, relative, or with a friend who is either a licensed foster parent or is willing to become a licensed foster parent, which is referred to in statute as an emergency placement with a non-custodial parent or relative as authorized in Section 80-2a-301 or a post-shelter hearing placement with a non-custodial parent, relative, or friend as authorized in Section 80-3-303.</div><div>(11) \"Relative\" is defined in Section 80-2a-101.</div><div>(12) \"Severe type of child abuse or neglect\" is defined in Section 80-1-102.</div><div>(13) \"Sibling\" is defined in Section 80-2-102.</div><div>(14) \"Substantiated\" is defined in Section 80-1-102.</div><div>(15) \"Supported\" is defined in Section 80-1-102.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-500 Kinship Services, Placement and Background Screening :: R512-500-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/4fu2enbi1pn6er2tictavxlftw4n4duw",
+    "stateNumber": 6,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Kinship",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) This rule establishes standards for kinship placement for a child who is in Child and Family Services custody, including preliminary placement, evaluation of kinship caregiver capacity for ongoing care, and background screening.</div><div>(2) This rule is authorized by Sections 80-2-302, 80-2a-301, 80-3-302, and 80-3-303.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-311 Out-of-Home Services. Psychotropic Medication Oversight Panel :: R512-311-4 Duties of the Oversight Panel",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/8dr9u0t9evtu93ov8sun8wvzcrlci556",
+    "stateNumber": 7,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Reporting requirements",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The oversight panel shall monitor foster children:</div><div>(a) six years old or younger who are being prescribed one or more psychotropic medication; and</div><div>(b) seven years old or older who are being prescribed two or more psychotropic medications.</div><div>(2) The fostering healthy children nurse shall refer children to the oversight panel.</div><div>(3) The oversight panel may request information and records related to the foster child's health care history, including:</div><div>(a) psychotropic medication history;</div><div>(b) mental and behavioral health history, including trauma assessment and trauma treatment history, from the:</div><div>(i) foster child's current or past caseworker;</div><div>(ii) the foster child;</div><div>(iii) the foster parents;</div><div>(iv) the natural parents;</div><div>(v) the legal guardians from whom the child was removed; and</div><div>(vi) the foster child's current or past health care provider.</div><div>(4) The caseworker or nurse shall assist in obtaining the information and records requested by the oversight panel.</div><div>(5) The oversight panel shall:</div><div>(a) review and monitor information about the foster child; and</div><div>(b) make recommendations to the foster child's health care providers concerning the foster child's psychotropic medication or the foster child's mental or behavioral health.</div><div>(6) The oversight panel shall provide these recommendations to the foster child's parent or legal guardians from whom the child was removed, and to the child's caseworker after discussing the recommendations with the foster child's current health care providers.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-311 Out-of-Home Services. Psychotropic Medication Oversight Panel :: R512-311-3 Composition of the Oversight Panel",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/8dr9u0t9evtu93ov8sun8wvzcrlci556",
+    "stateNumber": 8,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Child and Family Services shall comprise the oversight panel with, at minimum, an advanced practice registered nurse and a child psychiatrist.</div><div>(2) Child and Family Services may add other individuals to the oversight panel as resources permit and when Child and Family Services determines it to be necessary.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-311 Out-of-Home Services. Psychotropic Medication Oversight Panel :: R512-311-2 Definitions",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/8dr9u0t9evtu93ov8sun8wvzcrlci556",
+    "stateNumber": 9,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Definitions",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>As used in this rule:</div><div>(1) \"Advanced Practice Registered Nurse\" means the same as the term defined in Section 58-31b-102.</div><div>(2) \"Child\" means the same as the term defined in Section 80-1-102.</div><div>(3) \"Child and Family Services\" means the Division of Child and Family Services, Department of Health and Human Services.</div><div>(4) \"Fostering Healthy Children nurse\" means a nurse assigned to each child in foster care through the Fostering Healthy Children program administered by the Department of Health and Human Services.</div><div>(5) \"Oversight Panel\" means the Psychotropic Medication Oversight Panel.</div><div>(6) \"Psychotropic medication\" means the same as the term defined in Section 80-2-503.5.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-311 Out-of-Home Services.  Psychotropic Medication Oversight Panel :: R512-311-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/8dr9u0t9evtu93ov8sun8wvzcrlci556",
+    "stateNumber": 10,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Disability and exceptional needs",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) This rule establishes and operates a psychotropic medication oversight panel for children in the custody of Child and Family Services to ensure that foster children are being prescribed psychotropic medication consistent with their needs.</div><div>(2) This rule is authorized by Sections 80-2-302, 80-2-301, and 80-2-503.5.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-310 Reasonable and Prudent Parent Standard :: R512-310-6 Group Home or Residential Setting Activities",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/p4di8cy7m3o1cxbeaeu8f55ur9ogny4q",
+    "stateNumber": 11,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Expectations for care",
+      "Group and residential care",
+      "Placement",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) When children are placed in a group home or residential treatment setting, the provider will incorporate normalcy activities into the program. The activities will be in-line with the reasonable and prudent parent standard and will help children with skills essential for positive development.</div><div>(2) The provider will also have the presence on-site of at least one official who, with respect to any child placed with the provider, will be the designated caregiver who may apply the reasonable and prudent parenting standard to decisions involving the participation of the child in age or developmentally-appropriate activities.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-310 Reasonable and Prudent Parent Standard :: R512-310-5 Participation in Activities",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/p4di8cy7m3o1cxbeaeu8f55ur9ogny4q",
+    "stateNumber": 12,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Expectations for care",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>Caregivers shall ensure that the child has the safety equipment and any permissions and training necessary to safely engage in each activity the child participates in, such as boating, rock climbing, recreational vehicle use, sports, and camping.</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-310 Reasonable and Prudent Parent Standard :: R512-310-4 Requirements for Decision Making",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/p4di8cy7m3o1cxbeaeu8f55ur9ogny4q",
+    "stateNumber": 13,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Expectations for care",
+      "Meeting",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) A caregiver shall use a reasonable and prudent parent standard in determining whether to permit a child to participate in an activity.</div><div>(2) A caregiver shall consider:</div><div>(a) the child's age, maturity, and developmental level to maintain the overall health and safety of the child;</div><div>(b) potential risk factors and the appropriateness of the activity;</div><div>(c) the best interest of the child based on the caregiver's knowledge of the child;</div><div>(d) the importance of encouraging the child's emotional and developmental growth;</div><div>(e) the importance of providing the child with the most family-like living experience possible; and</div><div>(f) the behavioral history of the child and the child's ability to safely participate in the proposed activity.</div><div>(3) Child and family team meetings may be convened at any point to discuss whether the caregiver has used the reasonable and prudent parent standard to determine what activities a child may participate in or if the child feels they are being denied the ability to participate in a normalizing activity.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-310 Reasonable and Prudent Parent Standard :: R512-310-3 Highlights",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/p4di8cy7m3o1cxbeaeu8f55ur9ogny4q",
+    "stateNumber": 14,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Contracting with private organizations",
+      "Expectations for care",
+      "Foster Parent Services and Training",
+      "Legal process",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) A child who comes into out-of-home care may participate in age-appropriate activities for the child's emotional well-being and development of valuable life-coping skills.</div><div>(2) Child and Family Services shall make efforts to normalize the lives of children in the custody of Child and Family Services and to empower a caregiver to approve or disapprove a child's participation in activities based on the caregiver's own assessment using a reasonable and prudent parent standard, without prior approval of Child and Family Services.</div><div>(3) Child and Family Services shall allow a caregiver to make important decisions, similar to the decisions that a parent may make, regarding the child's participation in activities.</div><div>(4) Child and Family Services will verify that private agencies providing out-of-home placement under contract with Child and Family Services promote and protect the ability of a child to participate in age-appropriate activities.</div><div>(5) A caregiver is not liable for harm caused to a child in an out-of-home placement if the child participates in an activity approved by the caregiver, provided that the caregiver has acted in accordance with a reasonable and prudent parent standard.</div><div>(6) Child and Family Services will provide training to caregivers and providers regarding how to use and apply the reasonable and prudent parent standard.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-310 Reasonable and Prudent Parent Standard :: R512-310-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/p4di8cy7m3o1cxbeaeu8f55ur9ogny4q",
+    "stateNumber": 15,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Expectations for care"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) This rule establishes standards for normalcy for a child who is in Child and Family Services custody, including a reasonable and prudent parent standard and normalizing activities for children.</div><div>(2) This rule is authorized by Sections 80-2-302, 80-2-301, and 80-2-308.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-309 Out-of-Home Services, Foster Parent Reimbursement of Motor Vehicle Insurance Coverage for Youth in Foster Care :: R512-309-5 Child and Family Services Responsibility to Foster Parent",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/uwa9ubgkfjzgkfloxgrimm6llj492yu4",
+    "stateNumber": 16,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Legal process",
+      "Reporting requirements",
+      "Services while in care - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Child and Family Services will notify the Driver License Division of a request that the permit or license of the youth be cancelled when a person who has signed the application makes a written request to Child and Family Services that the permit or license of a foster care youth be cancelled.</div><div>(2) Upon cancellation of the permit or license for the youth, Child and Family Services will verify to the foster parent that they are relieved from liability for that youth operating a motor vehicle after the cancellation.</div>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-309 Out-of-Home Services, Foster Parent Reimbursement of Motor Vehicle Insurance Coverage for Youth in Foster Care :: R512-309-4 Method for Determining Amount of Reimbursement for a Foster Parent",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/uwa9ubgkfjzgkfloxgrimm6llj492yu4",
+    "stateNumber": 17,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Eligibility",
+      "Foster Parent Services and Training",
+      "Legal process",
+      "Reporting requirements",
+      "Services while in care - Other",
+      "Subsidies - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) In accordance with Section 80-2-307, Child and Family Services may reimburse a foster parent for providing owner's or operator's security covering a youth's operation of a motor vehicle in amounts required under Section 31A-22-304 if the youth is in the legal custody of Child and Family Services. Reimbursement will be limited to the minimum liability insurance policy limits established under Section 31A-22-304.</div><div>(2) As allowed within the amounts appropriated to Child and Family Services, Child and Family Services will reimburse the additional cost of the insurance premium for a youth when the foster parent has met the eligibility requirements.</div><div>(3) The foster parent will submit to Child and Family Services a current and valid statement from the insurance company that will identify the actual cost of providing insurance coverage for the foster care youth.</div><p>&nbsp;</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-309 Out-of-Home Services, Foster Parent Reimbursement of Motor Vehicle Insurance Coverage for Youth in Foster Care :: R512-309-3 Eligibility Requirements",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/uwa9ubgkfjzgkfloxgrimm6llj492yu4",
+    "stateNumber": 18,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Aging out of the foster system",
+      "Eligibility",
+      "Foster Parent Services and Training",
+      "Legal process",
+      "Safety",
+      "Services while in care - Other",
+      "Subsidies - Foster Parents"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The child has been placed in the home of a foster parent who is receiving a foster care maintenance payment from Child and Family Services.</div><div>(2) Obtaining a driver license is an objective of the Child and Family Plan that has been developed for the youth with Transition to Adult Living Services.</div><div>(3) The foster parent is willing to assume the responsibility for signing as the responsible adult for a foster care youth to receive a driver license under Section 53-3-211:</div><div>(a) the foster parent is willing to provide the minimum insurance coverage for the youth as described in Section 31A-22-304;</div><div>(b) the foster parent will sign a liability waiver if they do not sustain the automobile insurance; and</div><div>(c) the foster parent will ensure that the vehicle they have insured for the youth is in good operating condition.</div><div>(4) The foster parent has full knowledge that by signing as the responsible adult, the foster parent is jointly and severally liable with the minor for civil compensatory damages caused by the minor when operating a motor vehicle upon the highway as provided under Section 53-3-211. The foster parent's liability may not exceed the greater of the minimum liability insurance policy limits established under Section 31A-22-304 or the policy limits of the foster parent's liability insurance policy issued in accordance with Section 31A-22-302 that were in effect when damages were caused by the minor's operation of a motor vehicle.</div><div>(5) The foster parent who signs the application of a minor for a provisional license must certify that the minor applicant, under the authority of a permit issued, has completed at least 40 hours driving in a motor vehicle, of which at least ten hours shall be during night hours after sunset.</div><p>&nbsp;</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-309 Out-of-Home Services, Foster Parent Reimbursement of Motor Vehicle Insurance Coverage for Youth in Foster Care :: R512-309-2 Definitions",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/uwa9ubgkfjzgkfloxgrimm6llj492yu4",
+    "stateNumber": 19,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Definitions",
+      "Kinship"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) \"Child and Family Services\" means the Division of Child and Family Services.</div><div>(2) \"Foster parent\" means a licensed resource family, also known as a licensed foster family, and may also include a kinship provider or proctor provider. Foster parent does not include a group home or residential facility that provides out-of-home services under contract with Child and Family Services.</div><div>(3) \"Minor\" has the same meaning as defined in Section 53-3-211.</div><div>(4) \"Owner's or operator's security\" is described in Section 41-12a-301.</div><p>&nbsp;</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-309 Out-of-Home Services, Foster Parent Reimbursement of Motor Vehicle Insurance Coverage for Youth in Foster Care :: R512-309-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/uwa9ubgkfjzgkfloxgrimm6llj492yu4",
+    "stateNumber": 20,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Legal process",
+      "Services while in care - Financial",
+      "Services while in care - Other",
+      "Subsidies - Foster Parents"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) This rule establishes parameters and a process that Child and Family Services may, within amounts appropriated, reimburse a foster parent for providing owner's or operator's security covering a foster care youth's operation of a vehicle if the youth is in the legal custody of Child and Family Services.</div><div>(2) Section 80-2-307 provides Child and Family Services the authority to provide reimbursement to a foster parent who is willing to provide motor vehicle insurance for a youth in their care to operate a motor vehicle.</div><div>(3) This rule is authorized by Section 80-2-302.</div><p>&nbsp;</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-305 Out-of-Home Services, Transition to Adult Living Services :: R512-305-5 Child and Family Services Responsibility to a Youth Leaving Out-of-Home Care",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/k7mdhhpr9hcwtgbmmy3e62cwv5zqd9m5",
+    "stateNumber": 21,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Aging out of the foster system",
+      "Eligibility",
+      "Services after exit from care",
+      "Subsidies - Other",
+      "Use of state money"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Aftercare services provide support to youth who leave out-of-home care.</div><div>(2) A youth may access services by contacting a Child and Family Services office and being referred to a regional TAL coordinator.</div><div>(3) Services may include additional basic life skills training, information and referral, mentoring, computer access for resources, and follow-up support. Funds may also assist eligible youth in the following four areas:</div><div>(a) education, training, and career exploration;</div><div>(b) physical, mental health, and emotional support;</div><div>(c) transportation; and</div><div>(d) housing support.</div><div>(4) Funds used for room and board are subject to federal limits.</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-305 Out-of-Home Services, Transition to Adult Living Services :: R512-305-4 Transition to Adult Living Placement for a Youth in Child and Family Services Custody",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/k7mdhhpr9hcwtgbmmy3e62cwv5zqd9m5",
+    "stateNumber": 22,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Aging out of the foster system",
+      "Eligibility",
+      "Expectations for care",
+      "Group and residential care",
+      "Kinship",
+      "Permanency",
+      "Placement",
+      "Subsidies - Other",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) A TAL placement may be used as an alternative to out-of-home care when it is determined that such a placement is in the best interest of the youth.</div><div>(2) The appropriate types of living arrangements for youth in this situation include:</div><div>(a) living with kin;</div><div>(b) living with former out-of-home caregivers while paying rent;</div><div>(c) living in the community with roommates;</div><div>(d) living alone;</div><div>(e) living in a group facility, Young Women Christian Association, boarding house, or dorm; or</div><div>(f) living with an adult who has passed a background check or the placement was assessed and approved by the region director or designee.</div><div>(3) This recommendation will be presented to the child and family team, who will work to ensure that this type of placement is appropriate and that the following guidelines are met:</div><div>(a) a TAL placement may be used as an out-of-home care placement;</div><div>(b) a youth must be at least 16 years of age to be in a TAL placement;</div><div>(c) the child and family team is responsible to determine if a recommendation for a TAL placement for a youth is appropriate;</div><div>(d) the region director or designee may approve a TAL placement;</div><div>(e) the caseworker and youth shall complete a contract outlining responsibilities and expectations while in the TAL placement;</div><div>(f) the caseworker shall visit with and monitor progress of the youth at least twice monthly or at an interval determined by the child and family team;</div><div>(g) the youth may receive a TAL stipend while in the TAL placement; and</div><div>(h) if the TAL placement is not successful, the child and family team shall meet to determine, with the youth, a more appropriate living arrangement.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-305 Out-of-Home Services, Transition to Adult Living Services :: R512-305-3 Transition to Adult Living Services for a Youth in Child and Family Services Custody",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/k7mdhhpr9hcwtgbmmy3e62cwv5zqd9m5",
+    "stateNumber": 23,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Aging out of the foster system",
+      "Permanency",
+      "Services while in care - Educational",
+      "Subsidies - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The caseworker, with the assistance of the youth and child and family team, ensures completion of the empirically validated life skills assessment to identify the strengths and needs of the youth.</div><div>(2) Based upon the empirically validated life skills assessment, a TAL plan is developed that identifies the youth's strengths, needs, and specific services.</div><div>(3) The youth, with the assistance of the child and family team, determines the TAL plan. Youth aged 14 years or older are required to have a TAL plan, with youth taking the lead in setting goals and facilitating the child and family team with staff guidance. Youth 14 years and older must be given the opportunity to have at least two individuals of their own choosing as members of the child and family team.</div><div>(4) TAL services do not substitute for reasonable efforts to address the youth's permanency goal.</div><div>(5) The TAL plan includes a continuum of training and services to be completed by the youth and designated team members in such settings as at the foster home, with a therapist, at school, or through other community-based resources and programs.</div><div>(6) Basic life skills training shall be offered to foster youth age 14 years and older. The training may include training in daily living skills, budgeting, career development and financial management skills, substance abuse prevention, and preventive health activities, including smoking avoidance, nutrition education, and pregnancy prevention.</div><div>(7) Each youth who completes basic life skills training may receive a completion payment.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-305 Out-of-Home Services, Transition to Adult Living Services :: R512-305-2 Scope of Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/k7mdhhpr9hcwtgbmmy3e62cwv5zqd9m5",
+    "stateNumber": 24,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Adoption",
+      "Aging out of the foster system",
+      "Eligibility",
+      "Exit from care",
+      "Guardianship",
+      "Indian Child Welfare Act (ICWA)",
+      "Permanency",
+      "Services after exit from care",
+      "Services while in care - Educational",
+      "Subsidies - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) TAL services are required for youth receiving out-of-home services, age 14 years or older, until Child and Family Services custody is terminated regardless of permanency goal, as specified in Rule R512-300.</div><div>(2) TAL services provide aftercare services for youth if they are no longer in Child and Family Services custody and are not yet 23 years of age, and the youth:</div><div>(a) ages out of out-of-home care; or</div><div>(b) after attaining 16 years of age, has left foster care for guardianship or adoption.</div><div>(3) TAL services build on the youth's individual strengths and develop personal assets to help young people acquire the motivation and the means to be successful throughout their lives. The strategies are aimed at helping youth achieve five fundamental aspects of adult life, including:</div><div>(a) work, career planning, and education;</div><div>(b) housing and money management;</div><div>(c) home life and daily living;</div><div>(d) self-care and health education; and</div><div>(e) communication, social relationships, family, and marriage.</div><div>(4) Aftercare services consist of time-limited support to youth. This assistance can be provided through support, financial aid, or basic life skills training. It may include housing, counseling, employment education, and other appropriate support and services to complement a youth's efforts to achieve self-sufficiency.</div><div>(5) TAL services are available in each geographic region of the state.</div><div>(6) TAL services are available on the same basis to Native American youth who are or were formerly in Tribal custody within the boundaries of the state.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-305 Out-of-Home Services, Transition to Adult Living Services :: R512-305-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/k7mdhhpr9hcwtgbmmy3e62cwv5zqd9m5",
+    "stateNumber": 25,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Aging out of the foster system",
+      "Definitions",
+      "Exit from care",
+      "Services after exit from care",
+      "Services while in care - Educational",
+      "Services while in care - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Transition to Adult Living (TAL) services help prepare a youth who is receiving out-of-home services in accordance with Rule R512-300 to gain skills to transition to adulthood and to provide support to youth upon leaving the Division of Child and Family Services (Child and Family Services) custody. TAL is a continuum of services that begins while youth are in care and continues while they transition out of care. Youth receiving in-home services may also receive TAL services.</div><div>(2) TAL services include the Education and Training Voucher Program, and are authorized by the John H. Chafee Foster Care Independence Program of 2011, 42 U.S.C 677.</div><div>(3) This rule is authorized by Section 80-2-302.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-10 Cohabitation Not Permitted for Foster Parents",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 26,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Court system",
+      "Eligibility",
+      "Kinship",
+      "Legal process",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>A foster parent or foster parents must comply with Section 80-2-802, which provides that Child and Family Services cannot place a child with a couple who is cohabiting unless they are relatives of the child. Child and Family Services gives priority for foster care placements to families in which both a man and a woman are legally married or valid proof that a court or administrative order has established a valid common law marriage, Section 30-1-4.5. Legally married couples, individuals who are not cohabiting, and relatives of the child in state custody may be foster parents.</p><p>Page 3</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-9 Removal of a Child from a Caregiver Providing Services.",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 27,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Moves while in care",
+      "Placement"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>Removal of a child from a caregiver shall occur as provided in Section 80-2a-304 and Rule R512-31.</p><p>Page 3</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-8 Child Abuse Reporting and Investigation of a Caregiver Providing Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 28,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Investigations",
+      "Legal process",
+      "Reporting requirements",
+      "Safety"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <p>Investigation of any report or allegation of abuse or neglect of a child that allegedly occurs while the child is living with a caregiver shall be investigated by staff designated by the Department of Health and Human Services or law enforcement as provided in Section 80-2-703.</p><p>Page 3</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-7 Payment Criteria for a Caregiver of a Child Receiving Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 29,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Foster Parent Services and Training",
+      "Reporting requirements",
+      "Services while in care - Educational",
+      "Services while in care - Medical",
+      "Subsidies - Foster Parents",
+      "Use of state money",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) A caregiver shall receive payments according to the rate established for the child's need level, not upon the highest level of service the caregiver has been trained to provide.</div><div>(2) The daily rate for the monthly foster care maintenance payment provides for the child's board and room, care and supervision, basic clothing and personal incidentals, and may also include a supplemental daily payment based upon a child's medical need or to assist with care of a youth's child while residing with the youth in an out-of-home placement. Foster care maintenance may also include periodic one-time payments for special needs such an initial clothing allowance, additional needs for a baby, additional clothing, gifts, lessons or equipment, recreation, non-tuition school expenses, and other needs recommended by the child and family team and approved by Child and Family Services.</div><div>(3) A caregiver may also be reimbursed for transporting a foster child for visitation with a parent or siblings, to participate in case activities such as child and family team meetings and reviews, and for transporting the child to activities beyond those normally required for a family. The caregiver must document the mileage on a form provided by Child and Family Services.</div><div>(4) The caregiver shall submit required documentation to receive payments for care or reimbursement for costs.</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-6 Roles and Responsibilities of a Caregiver of a Child Receiving Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 30,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Expectations for care",
+      "Foster Parent Services and Training",
+      "Kinship",
+      "Meeting",
+      "Permanency",
+      "Placement",
+      "Reporting requirements",
+      "Safety",
+      "Services while in care - Educational",
+      "Services while in care - Medical",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) A caregiver shall be responsible to provide daily care, supervision, protection, and experiences that enhance the child's development as provided in a written agreement entered into with Child and Family Services and the child and family plan.</div><div>(2) The caregiver shall be responsible to:</div><div>(a) participate in the child and family team process;</div><div>(b) provide input into the assessment and child and family plan development process;</div><div>(c) complete goals and objectives of the plan relevant to the caregiver;</div><div>(d) promptly communicate with the worker the child's progress and concerns and progress in completing the plan or regarding problems in meeting specified goals or objectives in advance of proposed completion time frames; and</div><div>(e) support and assist with parental visitation.</div><div>(3) The caregiver shall document individualized services provided for the child, when required, such as skills development or transportation.</div><div>(4) The caregiver shall maintain and update the child's portable, permanent record to preserve vital information about the child's life events, activities, health, social, and educational history while receiving out-of-home services. The caregiver shall share relevant health and educational information during visits with appropriate health care and educational providers to ensure continuity of care for the child.se</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-5 Child and Family Services' Roles and Responsibilities to a Caregiver for a Child Receiving Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 31,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Child rights",
+      "Court system",
+      "Meeting",
+      "Placement",
+      "Reporting requirements",
+      "Services while in care - Educational",
+      "Services while in care - Medical",
+      "Services while in care - Other",
+      "Visitation",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Child and Family Services shall actively seek the involvement of the caregiver in the Child and Family Team process, including participation in the Child and Family Team, completing an assessment, and developing the Child and Family Plan as described in Rule R512-300.</div><div>(2) The Child and Family Plan shall include steps for monitoring the placement and a plan for worker visitation and supports to the caregiver for a child placed in Utah or out of state.</div><div>(3) In accordance with Section 80-3-307, additional weight and attention shall be given to the input of the child's caregiver in plan development.</div><div>(4) Child and Family Services shall provide a copy of the completed child and family plan to the caregiver.</div><div>(5) The caregiver has a right to reasonable notice and may participate in court and administrative reviews for the child in accordance with Sections 80-3-104 and 80-3-201.</div><div>(6) Child and Family Services shall provide support to the caregiver to ensure that the child's needs are met, and to prevent unnecessary placement disruption.</div><div>(7) Options for temporary relief may include paid respite, non-paid respite, childcare, and babysitting.</div><div>(8) The worker shall provide the caregiver with a portable, permanent record that provides available educational, social, and medical history information for the child and that preserves vital information about the child's life events and activities while receiving out-of-home services.</div><p>Page 2</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-4 Selection of a Caregiver for a Child Receiving Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 32,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Abuse and neglect",
+      "Administrative process",
+      "Entry to care",
+      "Expectations for care",
+      "Foster parent licensing",
+      "Foster parent recruiting",
+      "Foster Parent Services and Training",
+      "Indian Child Welfare Act (ICWA)",
+      "Kinship",
+      "Permanency",
+      "Placement",
+      "Reporting requirements",
+      "Safety",
+      "Services while in care - Educational",
+      "Services while in care - Financial",
+      "Services while in care - Medical",
+      "Services while in care - Mental Health",
+      "Visitation"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) Child and Family Services shall make diligent efforts to place children with a kinship caregiver following preference for placement Section 80-3-302. For emergency placement provisions, Child and Family Services will follow the requirements of Section 80-2a-301.</div><div>(2) A caregiver shall have the experience, personal characteristics, temperament, and training necessary to work with a child and the child's family to be approved and selected to provide out-of-home services.</div><div>(3) A caregiver shall be selected according to:</div><div>(a) the caregiver's skills and abilities to meet a child's individual needs and, when appropriate, an ability to support both parents in reunification efforts;</div><div>(b) the caregiver's willingness to consider serving as a permanent home for the child if reunification is not achieved; and</div><div>(c) when dictated by a child's level of care needs, the caregiver's ability to have one parent to be available in the home at all times.</div><div>(4) A caregiver shall be selected according to the caregiver's compatibility with the child, as determined by Child and Family Services exercising its professional judgment. The best interest of the child shall be Child and Family Services' primary consideration when making a placement decision:</div><div>(a) Child and Family Services may consider the caregiver's possession or use of a firearm or other weapon, espoused religious beliefs, or choice to school the child outside the public education system in accordance with Section 63G-4-104; and</div><div>(b) Child and Family Services may consider the child's sex, age, behavior, and the composition of the foster family.</div><div>(5) A child in state custody shall be placed with a caregiver who is fully licensed as provided in Rule R501-12. A child may be placed in a home with a probationary license only if the caregiver is a child-specific placement.</div><div>(6) A caregiver shall be given necessary information to make an informed decision about accepting responsibility to care for a child. The worker shall obtain information about the child's permanency plan, family visitation plans, and needs such as medical, educational, mental health, social, behavioral, and emotional needs, for consideration by the caregiver.</div><div>(7) If the court has not given custody to a non-custodial parent or kin provider, to provide safety and maintain family ties, the child shall be placed in the least restrictive placement that meets the child's special needs and is in the child's best interests, according to the following priorities:</div><div>(a) a friend designated by the custodial parent, guardian, or the child, if the child is of sufficient maturity to articulate the child's wishes in relation to a placement;</div><div>(b) a former foster placement designated by Child and Family Services;</div><div>(c) a foster placement, that is not a former foster placement, designated by Child and Family Services; and</div><div>(d) a shelter facility designated by Child and Family Services.</div><div>(8) If a child is reentering custody of the state, the child's former caregiver shall be given preference as provided in Section 80-3-302.</div><div>(9) A child's placement shall not be denied or delayed on the basis of race, color, or national origin of the caregiver or the child involved.</div><div>(10) Selection of a caregiver for an Indian child shall be made in compliance with the Indian Child Welfare Act of 1978, 25 USC Section 1915.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-3 Qualifying as a Caregiver for a Child Receiving Out-of-Home Services",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 33,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Contracting with private organizations",
+      "Definitions",
+      "Foster parent licensing",
+      "Foster Parent Services and Training",
+      "Investigations",
+      "Safety",
+      "Services while in care - Other"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) The Department of Health and Human Services, Division of Licensing and Background Check shall issue a license to an individual or couple as provided in Rule R501-12 to qualify as a caregiver for a child receiving out-of-home services. After initial licensure, the caregiver shall take each step necessary for timely licensure renewal to ensure that the license does not lapse.</div><div>(2) A caregiver qualifying for an initial license and any adults living in the home shall complete criminal background checks required by Section 80-3-305 before a child in state custody may be placed in that home.</div><div>(3) Child and Family Services or the contract provider shall provide pre-service training required in Rule R501-12 after the provider has held an initial consultation with the individual or couple to clearly delineate duties of caregivers.</div><div>(4) The curriculum for pre-service and in-service training shall be developed by the contract provider and approved by Child and Family Services according to Child and Family Services' contract with the provider.</div><div>(5) Child and Family Services or the contract provider shall verify in writing a caregiver's completion of training required for licensure as provided in Rule R501-12.</div><div>(6) Child and Family Services or the contract provider shall also verify in writing a caregiver's completion of supplemental training required for serving children with more difficult needs.</div><div>(7) Once a license is issued, the caregiver's name and identifying information may be shared with the court, assistant attorney general, guardian ad litem, foster parent training contract provider, resource family cluster group, foster parent associations, and the child's primary health care providers.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-2 Definitions",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 34,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Administrative process",
+      "Definitions",
+      "Foster parent licensing",
+      "Kinship"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>In addition to definitions in Rule R512-300, the following terms are defined:</div><div>(1) \"Caregiver\" means a licensed resource family, also known as a licensed foster family, and may also include a licensed or unlicensed kin provider or a foster family certified by a contract provider that is licensed as a child placing agency. Caregiver does not include a group home or residential facility that provides out-of-home services under contract with Child and Family Services.</div><div>(2) \"Cohabiting\" is defined in Section 78B-6-103.</div><div>(3) \"Residing\" means living in the same household on an uninterrupted or an intermittent basis.</div><p>Page 1</p>\n  </div>"
+  },
+  {
+    "ruleName": "UT :: R512 Health and Human Services, Child and Family Services :: R512-302 Out-of-Home Services, Responsibilities Pertaining to an Out-of-Home Caregiver :: R512-302-1 Purpose and Authority",
+    "state": "Utah",
+    "source": "https://wustl.box.com/s/rpryuja26jme49d156gcyue1ft2v1qcr",
+    "stateNumber": 35,
+    "years": [
+      "2025",
+      "2024",
+      "2023"
+    ],
+    "tags": [
+      "Expectations for care",
+      "Foster parent licensing",
+      "Worker training"
+    ],
+    "content": "<div class=\"wysiwyg-editor-text\">      <div>(1) This rule clarifies the:</div><div>(a) qualification, selection, payment criteria, and roles and responsibilities of a caregiver while a child is receiving out-of-home services; and</div><div>(b) roles and responsibilities of Child and Family Services to a caregiver for a child receiving out-of-home services in accordance with Rule R512-300.</div><div>(2) This rule is authorized by Section 80-2-302. Section 80-2-301 authorizes Child and Family Services to provide out-of-home services and The Public Health and Welfare Act of 2014, 42 U.S.C. 672 authorizes federal foster care.</div><p>Page 1</p>\n  </div>"
+  }
+]
