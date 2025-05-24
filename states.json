@@ -1,10 +1,38 @@
 [
   {
-    "state": 15,
-    "CurrentRuleStateNumber": "Texas"
+    "state": "Texas",
+    "CurrentRuleStateNumber": 2603
   },
   {
-    "state": 35,
-    "CurrentRuleStateNumber": "Utah"
+    "state": "Utah",
+    "CurrentRuleStateNumber": 219
+  },
+  {
+    "state": "\n              Illinois\n            ",
+    "CurrentRuleStateNumber": 44
+  },
+  {
+    "state": "Missouri",
+    "CurrentRuleStateNumber": 455
+  },
+  {
+    "state": "FIXME",
+    "CurrentRuleStateNumber": 8
+  },
+  {
+    "state": "\n              Missouri\n            ",
+    "CurrentRuleStateNumber": 140
+  },
+  {
+    "state": "Illinois",
+    "CurrentRuleStateNumber": 213
+  },
+  {
+    "state": "\n              Georgia\n            ",
+    "CurrentRuleStateNumber": 20
+  },
+  {
+    "state": "Georgia",
+    "CurrentRuleStateNumber": 368
   }
 ]

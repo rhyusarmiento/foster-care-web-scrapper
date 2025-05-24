@@ -7,12 +7,15 @@ async function scrape() {
     console.log(`data wiped`);
   }) 
 
+  // const stateManager = new StateManager()
+  // const newjson = await stripPage("/foster/introduction-child-welfare-manual-policy-updates-align-best-practices-and-comply-joint", stateManager)
+
   // Fetch HTML from a website
   let pageNumber = 0
   const mainLink = "https://fostercaresystems.wustl.edu/browse-our-data?page="
   let links = new Array
 
-  while (pageNumber < 5) {
+  while (pageNumber < 407) {
     const response = await fetch(`${mainLink}${pageNumber}`);
     const html = await response.text();
 
@@ -24,7 +27,7 @@ async function scrape() {
     // console.log(links)
     console.log(`links striped ${pageNumber}`)
     pageNumber++
-    await delay(1500);
+    await delay(300);
   }
 
   const stateManager = new StateManager()
@@ -36,7 +39,7 @@ async function scrape() {
     const newjson = await stripPage(link, stateManager)
     jsonObject.push(newjson)
     console.log('page scraped')
-    await delay(1500);
+    await delay(300);
   }
 
   fs.writeFile('data.json', JSON.stringify(jsonObject, null, 2), 'utf8', () => {
@@ -77,21 +80,26 @@ async function stripPage(url: string, stateManager: StateManager) {
   const ruleName = rule.querySelector('h1')
   const state = rule.querySelector('div.byline')
   const dates_tags = rule.querySelector('div.date')
-  const dates_tags_text = dates_tags.textContent.split('|')
-  const years = dates_tags_text[0].split(',').map(year => year.trim());
-  const tags = dates_tags_text[1].split(',').map(tag => tag.trim());
+  const dates_tags_text = dates_tags == null || dates_tags == undefined ? "FIXME" : dates_tags.textContent.split('|')
+  const years = dates_tags_text[0] == null || dates_tags_text[0] == undefined ? ["FIXME"] : dates_tags_text[0].split(',').map(year => year.trim());
+  const tags = dates_tags_text[1] == null || dates_tags_text[1] == undefined ? ["FIXME"] : dates_tags_text[1].split(',').map(tag => tag.trim());
   const content = doc.querySelector("div.wysiwyg-editor-text").outerHTML
-  const source = doc.querySelector("#quicklinks-nav").querySelector("a").getAttribute("href")
-  // console.log(content)
+  const source = doc.querySelector("#quicklinks-nav")
+  const sourceLink = source == null || source == undefined ? "FIXME" : source.querySelector("a")
+  const sourceText = sourceLink == null || sourceLink == undefined ? "FIXME" : sourceLink.getAttribute("href")
+  
+  // console.log(stateText)
 
   const newjson = {
-    "ruleName": ruleName.textContent,
-    "state": state.textContent,
-    "source": source,
-    "stateNumber": stateManager.retiveStateNumber(state.textContent),
+    "ruleName": ruleName.textContent == null || ruleName.textContent == undefined ? "FIXME" : ruleName.textContent,
+    "state": {
+      "stateName": state == null || state == undefined ? "FIXME" : state.textContent
+    },
+    "source": sourceText == null || sourceText == undefined ? "FIXME" : sourceText,
+    "stateNumber": stateManager.retiveStateNumber(state == null || state == undefined ? "FIXME" : state.textContent),
     "years": years,
     "tags": tags,
-    "content": content
+    "content": content == null || content == undefined ? "FIXME" : content
   }
 
   return newjson

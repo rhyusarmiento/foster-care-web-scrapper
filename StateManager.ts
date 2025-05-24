@@ -22,8 +22,8 @@ export class StateManager {
 
         this.states.forEach((key, value) => {
             states.push({
-                "state": key,
-                "CurrentRuleStateNumber": value
+                "state": value,
+                "CurrentRuleStateNumber": key
             })
         })
 
