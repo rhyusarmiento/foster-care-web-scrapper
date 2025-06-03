@@ -42,6 +42,10 @@ async function scrape() {
     await delay(300);
   }
 
+  for (const link of links) {
+    await striptPageContent(link, jsonObject, stateManager)
+  }
+
   fs.writeFile('data.json', JSON.stringify(jsonObject, null, 2), 'utf8', () => {
     console.log(`Data written`);
   })
@@ -66,6 +70,33 @@ function stripPageLinks(doc: DOMParser) {
   return linklist
 }
 
+async function striptPageContent(url: string, json: any, stateManager: StateManager) {
+  console.log(url)
+  const response = await fetch(`https://fostercaresystems.wustl.edu${url}`);
+  const html = await response.text();
+
+  // Parse HTML into a DOM
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, "text/html");
+  const contentDom = doc.querySelector("div.wysiwyg-editor-text")
+  const linklist = contentDom == null || contentDom == undefined ? null : contentDom.querySelectorAll('a')
+  
+  if (linklist != null) {
+    for (const link of linklist) {
+      const obj = json.find(item => item.url == `${link}` ? null : item.rule)
+      if (obj != null) {
+        const abbre = stateManager.getStateAbbre(obj.state.stateName)
+        const newlink = `https://fostercaresystems.byu.edu/rules/${abbre}/${obj.stateNumber}`
+        link.setAttribute('href', `${newlink}`)
+      }
+    }
+  }
+  
+  const content = doc.querySelector("div.wysiwyg-editor-text").outerHTML
+  const objInput = json.find(item => item[`https://fostercaresystems.wustl.edu${url}`])
+  objInput.htmlcontent = content == null || content == undefined ? "FIXME" : content
+}
+
 async function stripPage(url: string, stateManager: StateManager) {
   console.log(url)
   const response = await fetch(`https://fostercaresystems.wustl.edu${url}`);
@@ -83,23 +114,27 @@ async function stripPage(url: string, stateManager: StateManager) {
   const dates_tags_text = dates_tags == null || dates_tags == undefined ? "FIXME" : dates_tags.textContent.split('|')
   const years = dates_tags_text[0] == null || dates_tags_text[0] == undefined ? ["FIXME"] : dates_tags_text[0].split(',').map(year => year.trim());
   const tags = dates_tags_text[1] == null || dates_tags_text[1] == undefined ? ["FIXME"] : dates_tags_text[1].split(',').map(tag => tag.trim());
-  const content = doc.querySelector("div.wysiwyg-editor-text").outerHTML
+  // const content = doc.querySelector("div.wysiwyg-editor-text").outerHTML
   const source = doc.querySelector("#quicklinks-nav")
   const sourceLink = source == null || source == undefined ? "FIXME" : source.querySelector("a")
   const sourceText = sourceLink == null || sourceLink == undefined ? "FIXME" : sourceLink.getAttribute("href")
   
   // console.log(stateText)
 
+
   const newjson = {
-    "ruleName": ruleName.textContent == null || ruleName.textContent == undefined ? "FIXME" : ruleName.textContent,
-    "state": {
-      "stateName": state == null || state == undefined ? "FIXME" : state.textContent
-    },
-    "source": sourceText == null || sourceText == undefined ? "FIXME" : sourceText,
-    "stateNumber": stateManager.retiveStateNumber(state == null || state == undefined ? "FIXME" : state.textContent),
-    "years": years,
-    "tags": tags,
-    "content": content == null || content == undefined ? "FIXME" : content
+    "url": [`https://fostercaresystems.wustl.edu${url}`],
+    "rule": {
+      "ruleName": ruleName.textContent == null || ruleName.textContent == undefined ? "FIXME" : ruleName.textContent,
+      "state": {
+        "stateName": state == null || state == undefined ? "FIXME" : state.textContent
+      },
+      "source": sourceText == null || sourceText == undefined ? "FIXME" : sourceText,
+      "stateNumber": stateManager.retiveStateNumber(state == null || state == undefined ? "FIXME" : state.textContent),
+      "years": years,
+      "tags": tags,
+      "htmlcontent": null
+    }
   }
 
   return newjson
