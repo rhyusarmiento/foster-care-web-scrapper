@@ -123,7 +123,7 @@ async function stripPage(url: string, stateManager: StateManager) {
 
 
   const newjson = {
-    "url": [`https://fostercaresystems.wustl.edu${url}`],
+    "url": `https://fostercaresystems.wustl.edu${url}`,
     "rule": {
       "ruleName": ruleName.textContent == null || ruleName.textContent == undefined ? "FIXME" : ruleName.textContent,
       "state": {
