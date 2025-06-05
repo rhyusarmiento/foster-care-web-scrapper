@@ -15,6 +15,7 @@ async function scrape() {
   const mainLink = "https://fostercaresystems.wustl.edu/browse-our-data?page="
   let links = new Array
 
+  // 407
   while (pageNumber < 407) {
     const response = await fetch(`${mainLink}${pageNumber}`);
     const html = await response.text();
@@ -27,7 +28,7 @@ async function scrape() {
     // console.log(links)
     console.log(`links striped ${pageNumber}`)
     pageNumber++
-    await delay(300);
+    await delay(200);
   }
 
   const stateManager = new StateManager()
@@ -39,10 +40,11 @@ async function scrape() {
     const newjson = await stripPage(link, stateManager)
     jsonObject.push(newjson)
     console.log('page scraped')
-    await delay(300);
+    await delay(200);
   }
 
   for (const link of links) {
+    console.log("getting content")
     await striptPageContent(link, jsonObject, stateManager)
   }
 
@@ -83,18 +85,22 @@ async function striptPageContent(url: string, json: any, stateManager: StateMana
   
   if (linklist != null) {
     for (const link of linklist) {
-      const obj = json.find(item => item.url == `${link}` ? null : item.rule)
-      if (obj != null) {
-        const abbre = stateManager.getStateAbbre(obj.state.stateName)
-        const newlink = `https://fostercaresystems.byu.edu/rules/${abbre}/${obj.stateNumber}`
+      // console.log(`inital state ${link.getAttribute('href')}`)
+      const obj = json.find(item => item.url == `${link.getAttribute('href')}` ? item : null)
+      if (obj != null && obj != undefined) {
+        const abbre = stateManager.getStateAbbre(obj.rule.state.stateName)
+        const newlink = `https://fostercaresystems.byu.edu/rules/${abbre}/${obj.rule.stateNumber}`
         link.setAttribute('href', `${newlink}`)
+        console.log(`check if set ${link.getAttribute('href')}`)
       }
     }
   }
   
   const content = doc.querySelector("div.wysiwyg-editor-text").outerHTML
-  const objInput = json.find(item => item[`https://fostercaresystems.wustl.edu${url}`])
-  objInput.htmlcontent = content == null || content == undefined ? "FIXME" : content
+  const objInput = json.find(item => item.url == `${url}` ? item.rule : null)
+  if (objInput != null) {
+    objInput.rule.htmlcontent = content == null || content == undefined ? "FIXME" : content
+  }
 }
 
 async function stripPage(url: string, stateManager: StateManager) {
@@ -123,11 +129,11 @@ async function stripPage(url: string, stateManager: StateManager) {
 
 
   const newjson = {
-    "url": `https://fostercaresystems.wustl.edu${url}`,
+    "url": `${url}`,
     "rule": {
       "ruleName": ruleName.textContent == null || ruleName.textContent == undefined ? "FIXME" : ruleName.textContent,
       "state": {
-        "stateName": state == null || state == undefined ? "FIXME" : state.textContent
+        "stateName": state == null || state == undefined ? "FIXME" : state.textContent.trim()
       },
       "source": sourceText == null || sourceText == undefined ? "FIXME" : sourceText,
       "stateNumber": stateManager.retiveStateNumber(state == null || state == undefined ? "FIXME" : state.textContent),

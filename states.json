@@ -5,34 +5,22 @@
   },
   {
     "state": "Utah",
-    "CurrentRuleStateNumber": 219
+    "CurrentRuleStateNumber": 230
   },
   {
-    "state": "\n              Illinois\n            ",
-    "CurrentRuleStateNumber": 44
+    "state": "Illinois",
+    "CurrentRuleStateNumber": 257
   },
   {
     "state": "Missouri",
-    "CurrentRuleStateNumber": 455
+    "CurrentRuleStateNumber": 595
   },
   {
     "state": "FIXME",
     "CurrentRuleStateNumber": 8
   },
   {
-    "state": "\n              Missouri\n            ",
-    "CurrentRuleStateNumber": 140
-  },
-  {
-    "state": "Illinois",
-    "CurrentRuleStateNumber": 213
-  },
-  {
-    "state": "\n              Georgia\n            ",
-    "CurrentRuleStateNumber": 20
-  },
-  {
     "state": "Georgia",
-    "CurrentRuleStateNumber": 368
+    "CurrentRuleStateNumber": 377
   }
 ]

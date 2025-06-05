@@ -59,19 +59,21 @@ export class StateManager {
     }
 
     getStateAbbre(state: string) {
-        return this.stateAbbre.get(state)
+        const newState = state.trim()
+        return this.stateAbbre[newState]
     }
 
     retiveStateNumber(state: string) {
-        let num = this.states.get(state)
+        const newState = state.trim()
+        let num = this.states.get(newState)
         if (num != undefined) {
             num++
-            this.states.set(state, num)
+            this.states.set(newState, num)
         } else {
-            this.states.set(state, 1)
+            this.states.set(newState, 1)
         }
 
-        return this.states.get(state)
+        return this.states.get(newState)
     }
 
     getStatesJSON() {
