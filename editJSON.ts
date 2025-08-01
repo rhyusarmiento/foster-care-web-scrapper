@@ -13,7 +13,7 @@ function readJsonArray(filePath: string): JsonObject[] {
 function updateJsonArray(data: JsonObject[]): JsonObject[] {
   return data.map(item => {
     item.rule.url = item.url;
-    item.rule.forMDcontent = item.rule.htmlContent;
+    item.rule.forMDcontent = item.rule.htmlcontent;
     return item;
   });
 }
