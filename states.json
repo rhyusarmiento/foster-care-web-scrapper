@@ -1,11 +1,11 @@
 [
   {
-    "state": "Texas",
-    "CurrentRuleStateNumber": 2603
+    "state": "Utah",
+    "CurrentRuleStateNumber": 411
   },
   {
-    "state": "Utah",
-    "CurrentRuleStateNumber": 230
+    "state": "Texas",
+    "CurrentRuleStateNumber": 2607
   },
   {
     "state": "Illinois",
@@ -21,6 +21,10 @@
   },
   {
     "state": "Georgia",
-    "CurrentRuleStateNumber": 377
+    "CurrentRuleStateNumber": 389
+  },
+  {
+    "state": "Delaware",
+    "CurrentRuleStateNumber": 1
   }
 ]

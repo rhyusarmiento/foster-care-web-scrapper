@@ -14,9 +14,10 @@ async function scrape() {
   let pageNumber = 0
   const mainLink = "https://fostercaresystems.wustl.edu/browse-our-data?page="
   let links = new Array
+  let isdone = false
 
   // 407
-  while (pageNumber < 407) {
+  while (!isdone) {
     const response = await fetch(`${mainLink}${pageNumber}`);
     const html = await response.text();
 
@@ -24,6 +25,10 @@ async function scrape() {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
     const newLinks = stripPageLinks(doc)
+    console.log(`links ${newLinks.length}`)
+    if (newLinks.length == 0) {
+      isdone = true
+    }
     links = links.concat(newLinks)
     // console.log(links)
     console.log(`links striped ${pageNumber}`)
@@ -36,10 +41,12 @@ async function scrape() {
   const jsonObject = new Array;
   console.log('json ready to go')
   // console.log(`${links.length}`)
+  let num = 1
   for (const link of links) {
     const newjson = await stripPage(link, stateManager)
     jsonObject.push(newjson)
-    console.log('page scraped')
+    console.log(`page scraped ${num}`)
+    num++
     await delay(200);
   }
 
@@ -100,6 +107,7 @@ async function striptPageContent(url: string, json: any, stateManager: StateMana
   const objInput = json.find(item => item.url == `${url}` ? item.rule : null)
   if (objInput != null) {
     objInput.rule.htmlcontent = content == null || content == undefined ? "FIXME" : content
+    objInput.rule.forMDcontent = content == null || content == undefined ? "FIXME" : content
   }
 }
 
@@ -139,7 +147,9 @@ async function stripPage(url: string, stateManager: StateManager) {
       "stateNumber": stateManager.retiveStateNumber(state == null || state == undefined ? "FIXME" : state.textContent),
       "years": years,
       "tags": tags,
-      "htmlcontent": null
+      "htmlcontent": null,
+      "forMDcontent" : null,
+      "url": `${url}`,
     }
   }
 
